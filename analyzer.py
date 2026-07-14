@@ -18,10 +18,10 @@ def get_stock_code(name):
     return stock_dict.get(name)
 
 def calculate_attention_score(mention_count):
-    # Max 25 points. 
-    if mention_count >= 4:
+    # Max 25 points. Cumulative history usually yields higher counts.
+    if mention_count >= 5:
         return 25
-    elif mention_count == 3:
+    elif mention_count >= 3:
         return 20
     elif mention_count == 2:
         return 15

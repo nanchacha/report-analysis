@@ -78,16 +78,45 @@ def process_reports(reports):
 if __name__ == "__main__":
     print("Scraping reports from Naver Finance...")
     raw_reports = scrape_naver_reports()
-    print(f"Total reports fetched: {len(raw_reports)}")
-    
-    import analyzer
-    processed = process_reports(raw_reports)
-    
-    print("Scoring data using 4-factor model...")
-    scored = analyzer.analyze_and_score(processed)
+    print(f"Total reports fetched today: {len(raw_reports)}")
     
     # Ensure data directory exists
     os.makedirs('frontend/data', exist_ok=True)
+    history_path = 'frontend/data/history.json'
+    
+    history_reports = []
+    if os.path.exists(history_path):
+        with open(history_path, 'r', encoding='utf-8') as f:
+            try:
+                history_reports = json.load(f)
+            except json.JSONDecodeError:
+                history_reports = []
+                
+    # Append and deduplicate
+    all_reports = history_reports + raw_reports
+    
+    # Deduplicate based on stock, title, broker, date
+    unique_reports = []
+    seen = set()
+    for r in all_reports:
+        # Create a unique key for each report
+        key = (r['stock'], r['title'], r['broker'], r['date'])
+        if key not in seen:
+            seen.add(key)
+            unique_reports.append(r)
+            
+    print(f"Total accumulated unique reports: {len(unique_reports)}")
+    
+    # Save updated history
+    with open(history_path, 'w', encoding='utf-8') as f:
+        json.dump(unique_reports, f, ensure_ascii=False, indent=2)
+    
+    import analyzer
+    # process_reports groups them by stock
+    processed = process_reports(unique_reports)
+    
+    print("Scoring data using 4-factor model...")
+    scored = analyzer.analyze_and_score(processed)
     
     output_path = 'frontend/data/reports_scored.json'
     with open(output_path, 'w', encoding='utf-8') as f:
