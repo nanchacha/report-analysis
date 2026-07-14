@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyst's Choice - 오늘의 추천 종목 (Heatmap)</title>
+    <meta name="description" content="네이버증권 리포트 기반 애널리스트 추천 종목 히트맵 보드입니다.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Pretendard:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+    
+    <div class="app-container">
+        <header>
+            <div class="header-content">
+                <h1>Analyst's Choice</h1>
+                <p>당일 증권사 리포트 분석 히트맵 (언급 집중도)</p>
+                <div class="date-badge" id="current-date"></div>
+            </div>
+            
+            <div class="legend">
+                <span>언급량: </span>
+                <div class="legend-scale">
+                    <div class="legend-color heat-1"></div><span>1</span>
+                    <div class="legend-color heat-2"></div><span>2</span>
+                    <div class="legend-color heat-3"></div><span>3</span>
+                    <div class="legend-color heat-4"></div><span>4+</span>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="loading-state" id="loading">
+                <div class="spinner"></div>
+                <p>리포트 데이터를 불러오는 중...</p>
+            </div>
+
+            <div class="error-state" id="error" style="display: none;">
+                <p>데이터를 불러오는데 실패했습니다.</p>
+            </div>
+
+            <div class="heatmap-grid" id="heatmap-grid">
+                <!-- Grid items will be injected here via JavaScript -->
+            </div>
+        </main>
+        
+        <footer>
+            <p>Data sourced from Naver Finance</p>
+        </footer>
+    </div>
+
+    <!-- Modal for report details -->
+    <div class="modal-overlay" id="report-modal">
+        <div class="modal-content">
+            <button class="modal-close" id="modal-close" aria-label="닫기">
+                <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+            <div class="modal-header">
+                <div style="display:flex; justify-content: space-between; align-items: baseline;">
+                    <h2 id="modal-stock-name"></h2>
+                    <div class="modal-total-score">총점: <span id="modal-total"></span>점</div>
+                </div>
+                <div class="score-breakdown">
+                    <div class="score-item"><span>관심도</span><div class="score-bar"><div class="fill attention" id="score-attention"></div></div></div>
+                    <div class="score-item"><span>모멘텀</span><div class="score-bar"><div class="fill momentum" id="score-momentum"></div></div></div>
+                    <div class="score-item"><span>차트</span><div class="score-bar"><div class="fill technical" id="score-technical"></div></div></div>
+                    <div class="score-item"><span>재무</span><div class="score-bar"><div class="fill fundamental" id="score-fundamental"></div></div></div>
+                </div>
+            </div>
+            <ul class="report-list" id="modal-report-list"></ul>
+        </div>
+    </div>
+
+    <!-- Template for a heatmap cell -->
+    <template id="heatmap-cell-template">
+        <div class="heatmap-cell">
+            <span class="stock-name"></span>
+            <span class="mention-badge"></span>
+        </div>
+    </template>
+
+    <script src="script.js"></script>
+</body>
+</html>
