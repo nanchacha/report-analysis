@@ -137,8 +137,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderIndustries(reportsData, industriesData) {
-        const industryList = document.getElementById('industry-list');
-        if (!industryList) return;
+        const leftList = document.getElementById('industry-list-left');
+        const rightList = document.getElementById('industry-list-right');
+        if (!leftList || !rightList) return;
         
         const industryCounts = {};
         let maxCount = 1;
@@ -159,8 +160,12 @@ document.addEventListener('DOMContentLoaded', () => {
             return a.localeCompare(b);
         });
         
-        industryList.innerHTML = '';
-        sortedIndustries.forEach(ind => {
+        leftList.innerHTML = '';
+        rightList.innerHTML = '';
+        
+        const half = Math.ceil(sortedIndustries.length / 2);
+        
+        sortedIndustries.forEach((ind, index) => {
             const count = industryCounts[ind];
             const tag = document.createElement('span');
             tag.className = 'industry-tag';
@@ -206,7 +211,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
             
-            industryList.appendChild(tag);
+            if (index < half) {
+                leftList.appendChild(tag);
+            } else {
+                rightList.appendChild(tag);
+            }
         });
     }
 

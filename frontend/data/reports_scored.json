@@ -796,7 +796,7 @@
     "code": "251270"
   },
   {
-    "stock": "HL만도",
+    "stock": "HK이노엔",
     "count": 2,
     "reports": [
       {
@@ -814,12 +814,12 @@
     ],
     "scores": {
       "attention": 15,
-      "momentum": 10,
+      "momentum": 0,
       "technical": 0,
-      "fundamental": 15,
+      "fundamental": 25,
       "total": 40
     },
-    "code": "204320"
+    "code": "195940"
   },
   {
     "stock": "CJ프레시웨이",
@@ -881,11 +881,11 @@
     "scores": {
       "attention": 10,
       "momentum": 0,
-      "technical": 25,
-      "fundamental": 5,
+      "technical": 15,
+      "fundamental": 15,
       "total": 40
     },
-    "code": "127120"
+    "code": "078340"
   },
   {
     "stock": "에이블씨엔씨",
@@ -1440,130 +1440,6 @@
       {
         "title": "프리미엄 확인하면 늦어!",
         "broker": "대신증권",
-        "date": "26.07.13"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 10,
-      "fundamental": 15,
-      "total": 35
-    },
-    "code": "402340"
-  },
-  {
-    "stock": "오리온",
-    "count": 1,
-    "reports": [
-      {
-        "title": "비수기에도 흔들림 없는 성장",
-        "broker": "신한투자증권",
-        "date": "26.07.13"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 25,
-      "total": 35
-    },
-    "code": "271560"
-  },
-  {
-    "stock": "세아제강",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2Q26 영업실적 개선 기대",
-        "broker": "하나증권",
-        "date": "26.07.15"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 25,
-      "total": 35
-    },
-    "code": "306200"
-  },
-  {
-    "stock": "넥센타이어",
-    "count": 1,
-    "reports": [
-      {
-        "title": "아직은 노면이 거칠다",
-        "broker": "신한투자증권",
-        "date": "26.07.15"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 25,
-      "total": 35
-    },
-    "code": "002350"
-  },
-  {
-    "stock": "현대제철",
-    "count": 2,
-    "reports": [
-      {
-        "title": "2Q26 Preview: 기대는 낮추고, 방향은 유지",
-        "broker": "한화투자증권",
-        "date": "26.07.14"
-      },
-      {
-        "title": "상저하고의 실적 흐름, 신수요 가시성 확대 ..",
-        "broker": "미래에셋증권",
-        "date": "26.07.14"
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 15,
-      "total": 30
-    },
-    "code": "004020"
-  },
-  {
-    "stock": "삼성E&A",
-    "count": 2,
-    "reports": [
-      {
-        "title": "단기 실적, 중장기 전망 모두 긍정적",
-        "broker": "신한투자증권",
-        "date": "26.07.13"
-      },
-      {
-        "title": "반도체 특수 본격화",
-        "broker": "유진투자증권",
-        "date": "26.07.15"
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 15,
-      "total": 30
-    },
-    "code": "028050"
-  },
-  {
-    "stock": "SK스퀘어",
-    "count": 1,
-    "reports": [
-      {
-        "title": "프리미엄 확인하면 늦어!",
-        "broker": "대신증권",
         "date": "26.07.13",
         "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260713_company_570717000.pdf"
       }
@@ -1582,20 +1458,20 @@
     "count": 1,
     "reports": [
       {
-        "title": "단기 실적은 감속, 전환 스토리는 가속",
+        "title": "비수기에도 흔들림 없는 성장",
         "broker": "신한투자증권",
         "date": "26.07.13",
         "pdf_url": ""
       }
     ],
     "scores": {
-      "attention": 15,
+      "attention": 10,
       "momentum": 0,
       "technical": 0,
-      "fundamental": 15,
-      "total": 30
+      "fundamental": 25,
+      "total": 35
     },
-    "code": "011210"
+    "code": "271560"
   },
   {
     "stock": "NC",
@@ -2004,54 +1880,6 @@
       "total": 25
     },
     "code": "009540"
-  },
-  {
-    "stock": "큐리오시스",
-    "count": 1,
-    "reports": [
-      {
-        "title": "머크와 추가 ODM 발표하며 플랫폼 경쟁력 입..",
-        "broker": "미래에셋증권",
-        "date": "26.07.15"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 15,
-      "fundamental": 5,
-      "total": 30
-    },
-    "code": "494120"
-  },
-  {
-    "stock": "삼성중공업",
-    "count": 3,
-    "reports": [
-      {
-        "title": "2Q26 Pre: 보다 중요한 하반기 FDC",
-        "broker": "유안타증권",
-        "date": "26.07.13"
-      },
-      {
-        "title": "아쉬운 실적을 잊게 해줄 FDC",
-        "broker": "SK증권",
-        "date": "26.07.13"
-      },
-      {
-        "title": "탄탄한 본업에 더해지는 신성장 모멘텀",
-        "broker": "키움증권",
-        "date": "26.07.15"
-      }
-    ],
-    "scores": {
-      "attention": 20,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "010140"
   },
   {
     "stock": "카카오",
@@ -2538,7 +2366,7 @@
     "code": "336260"
   },
   {
-    "stock": "비씨엔씨",
+    "stock": "서진시스템",
     "count": 1,
     "reports": [
       {
@@ -2555,7 +2383,7 @@
       "fundamental": 5,
       "total": 15
     },
-    "code": "146320"
+    "code": "178320"
   },
   {
     "stock": "삼양식품",

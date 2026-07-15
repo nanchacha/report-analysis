@@ -16,59 +16,69 @@
         <div class="blob blob-2"></div>
     </div>
     
-    <div class="app-container">
-        <header>
-            <div class="header-content">
-                <h1>Analyst's Choice</h1>
-                <p>당일 증권사 리포트 분석 히트맵 (언급 집중도)</p>
-                <div class="date-badge" id="current-date"></div>
+    <div class="page-wrapper">
+        <aside class="sidebar sidebar-left">
+            <div class="industry-list" id="industry-list-left">
+                <!-- Left tags will be injected here via JavaScript -->
             </div>
-            
-            <div class="legend">
-                <span>언급량: </span>
-                <div class="legend-scale">
-                    <div class="legend-color heat-1"></div>
-                    <div class="legend-color heat-2"></div>
-                    <div class="legend-color heat-3"></div>
-                    <div class="legend-color heat-4"></div>
-                    <div class="legend-color heat-5"></div>
-                    <div class="legend-color heat-6"></div>
-                    <div class="legend-color heat-7"></div>
-                    <div class="legend-color heat-8"></div>
-                    <div class="legend-color heat-9"></div>
-                    <div class="legend-color heat-10"></div>
-                    <span style="margin-left: 0.5rem;">최고 점수 (10단계)</span>
+        </aside>
+
+        <div class="app-container">
+            <header>
+                <div class="header-content">
+                    <h1>Analyst's Choice</h1>
+                    <p>당일 증권사 리포트 분석 히트맵 (언급 집중도)</p>
+                    <div class="date-badge" id="current-date"></div>
                 </div>
-            </div>
+                
+                <div class="legend">
+                    <span>언급량: </span>
+                    <div class="legend-scale">
+                        <div class="legend-color heat-1"></div>
+                        <div class="legend-color heat-2"></div>
+                        <div class="legend-color heat-3"></div>
+                        <div class="legend-color heat-4"></div>
+                        <div class="legend-color heat-5"></div>
+                        <div class="legend-color heat-6"></div>
+                        <div class="legend-color heat-7"></div>
+                        <div class="legend-color heat-8"></div>
+                        <div class="legend-color heat-9"></div>
+                        <div class="legend-color heat-10"></div>
+                        <span style="margin-left: 0.5rem;">최고 점수 (10단계)</span>
+                    </div>
+                </div>
+            </header>
+
+            <main>
+                <div class="loading-state" id="loading">
+                    <div class="spinner"></div>
+                    <p>리포트 데이터를 불러오는 중...</p>
+                </div>
+
+                <div class="error-state" id="error" style="display: none;">
+                    <p>데이터를 불러오는데 실패했습니다.</p>
+                </div>
+
+                <div class="heatmap-grid" id="heatmap-grid">
+                    <!-- Grid items will be injected here via JavaScript -->
+                </div>
+
+                <div id="load-more-container" class="load-more-container" style="display: none;">
+                    <button id="load-more-btn" class="load-more-btn">종목 더보기 <span>▼</span></button>
+                </div>
+            </main>
             
-            <div class="industry-list" id="industry-list">
-                <!-- Industry tags will be injected here via JavaScript -->
-            </div>
-        </header>
+            <footer>
+                <p>Data sourced from Naver Finance</p>
+            </footer>
+        </div> <!-- end app-container -->
 
-        <main>
-            <div class="loading-state" id="loading">
-                <div class="spinner"></div>
-                <p>리포트 데이터를 불러오는 중...</p>
+        <aside class="sidebar sidebar-right">
+            <div class="industry-list" id="industry-list-right">
+                <!-- Right tags will be injected here via JavaScript -->
             </div>
-
-            <div class="error-state" id="error" style="display: none;">
-                <p>데이터를 불러오는데 실패했습니다.</p>
-            </div>
-
-            <div class="heatmap-grid" id="heatmap-grid">
-                <!-- Grid items will be injected here via JavaScript -->
-            </div>
-
-            <div id="load-more-container" class="load-more-container" style="display: none;">
-                <button id="load-more-btn" class="load-more-btn">종목 더보기 <span>▼</span></button>
-            </div>
-        </main>
-        
-        <footer>
-            <p>Data sourced from Naver Finance</p>
-        </footer>
-    </div>
+        </aside>
+    </div> <!-- end page-wrapper -->
 
     <!-- Modal for report details -->
     <div class="modal-overlay" id="report-modal">
