@@ -14,7 +14,7 @@ def scrape_naver_reports():
     # For a real service, it might check the date and stop, but here we just get page 1 to 3.
     reports = []
     
-    for page in range(1, 4):
+    for page in range(1, 6):
         resp = requests.get(f"{url}?&page={page}", headers=headers)
         resp.encoding = 'euc-kr'
         soup = BeautifulSoup(resp.text, 'html.parser')
@@ -32,6 +32,9 @@ def scrape_naver_reports():
                 broker = tds[2].text.strip()
                 date_str = tds[4].text.strip()
                 
+                pdf_link_tag = tds[3].select_one('a')
+                pdf_url = pdf_link_tag['href'] if pdf_link_tag else ""
+                
                 # We can choose to filter by today's date if we want,
                 # but for the sake of having enough data to display, 
                 # let's just gather recent reports.
@@ -41,7 +44,8 @@ def scrape_naver_reports():
                         'stock': stock_name,
                         'title': title,
                         'broker': broker,
-                        'date': date_str
+                        'date': date_str,
+                        'pdf_url': pdf_url
                     })
                     
     return reports
@@ -60,7 +64,8 @@ def process_reports(reports):
         stock_counts[stock]['reports'].append({
             'title': r['title'],
             'broker': r['broker'],
-            'date': r['date']
+            'date': r['date'],
+            'pdf_url': r.get('pdf_url', '')
         })
         
     # Convert to list and sort by count descending

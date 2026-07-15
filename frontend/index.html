@@ -27,11 +27,22 @@
             <div class="legend">
                 <span>언급량: </span>
                 <div class="legend-scale">
-                    <div class="legend-color heat-1"></div><span>1</span>
-                    <div class="legend-color heat-2"></div><span>2</span>
-                    <div class="legend-color heat-3"></div><span>3</span>
-                    <div class="legend-color heat-4"></div><span>4+</span>
+                    <div class="legend-color heat-1"></div>
+                    <div class="legend-color heat-2"></div>
+                    <div class="legend-color heat-3"></div>
+                    <div class="legend-color heat-4"></div>
+                    <div class="legend-color heat-5"></div>
+                    <div class="legend-color heat-6"></div>
+                    <div class="legend-color heat-7"></div>
+                    <div class="legend-color heat-8"></div>
+                    <div class="legend-color heat-9"></div>
+                    <div class="legend-color heat-10"></div>
+                    <span style="margin-left: 0.5rem;">최고 점수 (10단계)</span>
                 </div>
+            </div>
+            
+            <div class="industry-list" id="industry-list">
+                <!-- Industry tags will be injected here via JavaScript -->
             </div>
         </header>
 
@@ -47,6 +58,10 @@
 
             <div class="heatmap-grid" id="heatmap-grid">
                 <!-- Grid items will be injected here via JavaScript -->
+            </div>
+
+            <div id="load-more-container" class="load-more-container" style="display: none;">
+                <button id="load-more-btn" class="load-more-btn">종목 더보기 <span>▼</span></button>
             </div>
         </main>
         
@@ -74,6 +89,17 @@
                 </div>
             </div>
             <ul class="report-list" id="modal-report-list"></ul>
+        </div>
+    </div>
+
+    <!-- Conclusion Layer Popup -->
+    <div class="layer-popup-overlay" id="conclusion-popup">
+        <div class="layer-popup-content">
+            <button class="modal-close" id="conclusion-close" aria-label="닫기">
+                <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+            <h3>종합 의견</h3>
+            <p id="conclusion-text"></p>
         </div>
     </div>
 
