@@ -2,8 +2,8 @@ name: Daily Naver Finance Scraper
 
 on:
   schedule:
-    # 4 PM KST is 7 AM UTC
-    - cron: '0 7 * * *'
+    # 4:15 PM KST is 7:15 AM UTC (avoiding top-of-the-hour to reduce GitHub Actions queue delays)
+    - cron: '15 7 * * *'
   workflow_dispatch: # 수동으로 실행할 수 있는 버튼 활성화
 
 jobs:
