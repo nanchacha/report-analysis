@@ -30,10 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const barTechnical = document.getElementById('score-technical');
     const barFundamental = document.getElementById('score-fundamental');
 
-    // Set current date
-    const today = new Date();
-    const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' };
-    dateElement.textContent = today.toLocaleDateString('ko-KR', options);
+    // Date will be set after fetching data
 
     // Fetch data
     Promise.all([
@@ -44,8 +41,55 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(([reportsData, conclusionsData, industriesData]) => {
         conclusions = conclusionsData;
         globalReportsData = reportsData;
-        globalIndustriesData = industriesData;
+        
+        // 업종명 "와", "과" 기준으로 자르기 (예: "반도체와반도체장비" -> "반도체")
+        globalIndustriesData = {};
+        for (const [stock, ind] of Object.entries(industriesData)) {
+            if (ind && ind !== "기타") {
+                globalIndustriesData[stock] = ind.split(/[와과]/)[0];
+            } else {
+                globalIndustriesData[stock] = ind;
+            }
+        }
+        
         loadingElement.style.display = 'none';
+        
+        // 데이터에서 누적 날짜 범위 계산
+        if (reportsData.length > 0) {
+            let minDate = "99.99.99";
+            let maxDate = "00.00.00";
+            reportsData.forEach(stock => {
+                stock.reports.forEach(r => {
+                    if (r.date < minDate) minDate = r.date;
+                    if (r.date > maxDate) maxDate = r.date;
+                });
+            });
+            if (minDate === "99.99.99") minDate = maxDate = "26.07.21";
+            
+            const parseDateStr = (dStr) => {
+                const parts = dStr.split('.');
+                return parts.length === 3 ? {
+                    year: 2000 + parseInt(parts[0], 10),
+                    month: parseInt(parts[1], 10),
+                    day: parseInt(parts[2], 10)
+                } : null;
+            };
+            
+            const maxD = parseDateStr(maxDate);
+            const minD = parseDateStr(minDate);
+            
+            if (maxD && minD) {
+                const firstDay = new Date(maxD.year, maxD.month - 1, 1).getDay();
+                const week = Math.ceil((maxD.day + firstDay) / 7);
+                const formatD = (d) => `${d.month}/${d.day}`;
+                const rangeStr = minDate === maxDate ? formatD(maxD) : `${formatD(minD)} ~ ${formatD(maxD)}`;
+                dateElement.textContent = `${maxD.month}월 ${week}주차 (${rangeStr} 누적)`;
+            } else {
+                dateElement.textContent = "최신 누적 리포트";
+            }
+        } else {
+            dateElement.textContent = "최신 리포트 없음";
+        }
         
         renderHeatmap(globalReportsData, globalIndustriesData);
         renderIndustries(globalReportsData, globalIndustriesData);
@@ -123,26 +167,6 @@ document.addEventListener('DOMContentLoaded', () => {
             } else if (stockData.stock.length > 5) {
                 stockNameEl.style.fontSize = '0.95rem';
             }
-            
-            const industryLabelEl = cell.querySelector('.industry-label');
-            if (industriesData && industriesData[stockData.stock]) {
-                industryLabelEl.textContent = industriesData[stockData.stock];
-            } else {
-                industryLabelEl.textContent = "기타";
-            }
-            
-            // 모바일 탭 유지 이벤트 처리 (누르는 동안 업종 표시)
-            cell.addEventListener('touchstart', () => {
-                cell.classList.add('is-pressed');
-            }, { passive: true });
-            
-            cell.addEventListener('touchend', () => {
-                cell.classList.remove('is-pressed');
-            }, { passive: true });
-            
-            cell.addEventListener('touchcancel', () => {
-                cell.classList.remove('is-pressed');
-            }, { passive: true });
             
             cell.querySelector('.mention-badge').textContent = stockData.scores.total + "점";
             
