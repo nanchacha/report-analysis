@@ -339,6 +339,24 @@ header {
     line-height: 1.2;
 }
 
+.industry-label {
+    display: none;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: #fca5a5;
+    margin-bottom: 0.5rem;
+    word-break: break-all;
+    line-height: 1.2;
+}
+
+.heatmap-cell.is-pressed .stock-name {
+    display: none;
+}
+
+.heatmap-cell.is-pressed .industry-label {
+    display: block;
+}
+
 .mention-badge {
     background: rgba(0,0,0,0.4);
     padding: 0.2rem 0.6rem;
@@ -599,10 +617,7 @@ footer {
     }
     
     .sidebar {
-        position: static;
-        height: auto;
-        padding-top: 0;
-        overflow-y: visible;
+        display: none;
     }
     
     .sidebar-left { order: 1; }

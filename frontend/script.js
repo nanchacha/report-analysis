@@ -124,6 +124,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 stockNameEl.style.fontSize = '0.95rem';
             }
             
+            const industryLabelEl = cell.querySelector('.industry-label');
+            if (industriesData && industriesData[stockData.stock]) {
+                industryLabelEl.textContent = industriesData[stockData.stock];
+            } else {
+                industryLabelEl.textContent = "기타";
+            }
+            
+            // 모바일 탭 유지 이벤트 처리 (누르는 동안 업종 표시)
+            cell.addEventListener('touchstart', () => {
+                cell.classList.add('is-pressed');
+            }, { passive: true });
+            
+            cell.addEventListener('touchend', () => {
+                cell.classList.remove('is-pressed');
+            }, { passive: true });
+            
+            cell.addEventListener('touchcancel', () => {
+                cell.classList.remove('is-pressed');
+            }, { passive: true });
+            
             cell.querySelector('.mention-badge').textContent = stockData.scores.total + "점";
             
             // Determine heat level based on Total Score (max 100) mapped to 10 levels
