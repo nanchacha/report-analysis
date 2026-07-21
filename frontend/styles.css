@@ -222,6 +222,10 @@ header {
     color: #cbd5e1;
     backdrop-filter: blur(5px);
     transition: all 0.2s ease;
+    max-width: 100%;
+    word-break: keep-all;
+    text-align: center;
+    line-height: 1.2;
 }
 
 .industry-tag:hover {
@@ -331,7 +335,8 @@ header {
     font-weight: 600;
     font-size: 1.1rem;
     margin-bottom: 0.5rem;
-    word-break: keep-all;
+    word-break: break-all;
+    line-height: 1.2;
 }
 
 .mention-badge {

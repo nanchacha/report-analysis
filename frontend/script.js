@@ -114,7 +114,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
             
-            cell.querySelector('.stock-name').textContent = stockData.stock;
+            const stockNameEl = cell.querySelector('.stock-name');
+            stockNameEl.textContent = stockData.stock;
+            
+            // 종목명이 긴 경우 폰트 크기 동적 조정 (셀 바깥 오버플로우 방지)
+            if (stockData.stock.length > 7) {
+                stockNameEl.style.fontSize = '0.85rem';
+            } else if (stockData.stock.length > 5) {
+                stockNameEl.style.fontSize = '0.95rem';
+            }
+            
             cell.querySelector('.mention-badge').textContent = stockData.scores.total + "점";
             
             // Determine heat level based on Total Score (max 100) mapped to 10 levels
@@ -175,9 +184,14 @@ document.addEventListener('DOMContentLoaded', () => {
             // Calculate scale factor (0.0 to 1.0)
             const scaleFactor = maxCount > 1 ? (count - 1) / (maxCount - 1) : 0;
             const minSize = 0.8;
-            const maxSize = 1.35; // Maximum font size in rem
-            const fontSize = minSize + (maxSize - minSize) * scaleFactor;
+            let maxSize = 1.35; // Maximum font size in rem
             
+            // 글자 수에 비례하여 최대 폰트 크기 감소 (사이드바 그리드 오버플로우 방지)
+            if (ind.length > 5) {
+                maxSize = Math.max(0.85, maxSize * (5 / ind.length));
+            }
+            
+            const fontSize = minSize + (maxSize - minSize) * scaleFactor;
             tag.style.fontSize = `${fontSize}rem`;
             
             tag.addEventListener('click', () => {
