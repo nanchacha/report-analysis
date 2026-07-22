@@ -1804,5 +1804,166 @@
     "broker": "미래에셋증권",
     "date": "26.07.21",
     "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260721_company_13228000.pdf"
+  },
+  {
+    "stock": "녹십자",
+    "title": "2Q26 Preview: 상저하고 실적 기대",
+    "broker": "미래에셋증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260722_company_143835000.pdf"
+  },
+  {
+    "stock": "LG전자",
+    "title": "로보틱스+데이터센터 쿨링 시스템 > 애플카",
+    "broker": "메리츠증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/17/20260722_company_15451000.pdf"
+  },
+  {
+    "stock": "세아제강지주",
+    "title": "예상보다 빠른 수익성 정상화",
+    "broker": "한화투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260722_company_895962000.pdf"
+  },
+  {
+    "stock": "미스토홀딩스",
+    "title": "2Q26 Preview : 성장 스토리가 있는 회사",
+    "broker": "한화투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260722_company_598072000.pdf"
+  },
+  {
+    "stock": "F&F",
+    "title": "2Q26 Preview : 인바운드 수혜를 보고 있는 ..",
+    "broker": "한화투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260722_company_738199000.pdf"
+  },
+  {
+    "stock": "CJ CGV",
+    "title": "4DPLEX와 함께하는 CGV의 Brand New Day",
+    "broker": "DS투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260722_company_922658000.pdf"
+  },
+  {
+    "stock": "NEW",
+    "title": "매력적인 콘텐츠 라인업에 주주가치 제고까지",
+    "broker": "DS투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260722_company_410228000.pdf"
+  },
+  {
+    "stock": "롯데웰푸드",
+    "title": "2Q26 Pre: 시장 기대 부합 전망",
+    "broker": "하나증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260722_company_186868000.pdf"
+  },
+  {
+    "stock": "카카오뱅크",
+    "title": "관전 포인트는 여수신 성장",
+    "broker": "유안타증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260722_company_330242000.pdf"
+  },
+  {
+    "stock": "두산에너빌리티",
+    "title": "대만 NDR 후기: 같은 스토리, 다른 렌즈",
+    "broker": "유안타증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260722_company_636456000.pdf"
+  },
+  {
+    "stock": "CJ ENM",
+    "title": "광고만 회복되면 좋은데",
+    "broker": "대신증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260722_company_260738000.pdf"
+  },
+  {
+    "stock": "스튜디오드래곤",
+    "title": "드래곤의 작품은 확대 중",
+    "broker": "대신증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260722_company_137012000.pdf"
+  },
+  {
+    "stock": "효성",
+    "title": "두 가지 투자 포인트: 효성화학 반사수혜와 ..",
+    "broker": "대신증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260722_company_28677000.pdf"
+  },
+  {
+    "stock": "녹십자",
+    "title": "2Q26 Pre: 고마진 품목 이연, 컨센 하회",
+    "broker": "SK증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260722_company_167174000.pdf"
+  },
+  {
+    "stock": "NH투자증권",
+    "title": "2Q26 Preview: 성장을 위한 증자, 매력을 더..",
+    "broker": "SK증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260722_company_781840000.pdf"
+  },
+  {
+    "stock": "코세스",
+    "title": "본격적인 수주 + 실적 사이클 진입",
+    "broker": "SK증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260722_company_691615000.pdf"
+  },
+  {
+    "stock": "에프앤가이드",
+    "title": "2Q26P Review: ETF 시장 확대로 최대 실적 달..",
+    "broker": "유진투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260722_company_346181000.pdf"
+  },
+  {
+    "stock": "녹십자",
+    "title": "2분기 공백, 하반기에 집중",
+    "broker": "IBK투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260722_company_335446000.pdf"
+  },
+  {
+    "stock": "CJ대한통운",
+    "title": "장기 목표에 시선 고정",
+    "broker": "신한투자증권",
+    "date": "26.07.22",
+    "pdf_url": ""
+  },
+  {
+    "stock": "HMM",
+    "title": "우려 속 반복되는 단기 호황",
+    "broker": "신한투자증권",
+    "date": "26.07.22",
+    "pdf_url": ""
+  },
+  {
+    "stock": "롯데렌탈",
+    "title": "헤지 종목으로서의 역할이 부각되는 국면",
+    "broker": "키움증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260722_company_334696000.pdf"
+  },
+  {
+    "stock": "하나머티리얼즈",
+    "title": "매력적인 소부장",
+    "broker": "신한투자증권",
+    "date": "26.07.22",
+    "pdf_url": ""
+  },
+  {
+    "stock": "비츠로셀",
+    "title": "전 세계가 1차전지를 필요로 한다",
+    "broker": "IBK투자증권",
+    "date": "26.07.22",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260722_company_690502000.pdf"
   }
 ]
