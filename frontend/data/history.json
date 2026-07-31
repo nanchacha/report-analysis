@@ -5024,5 +5024,985 @@
     "broker": "삼성증권",
     "date": "26.07.30",
     "pdf_url": "https://stock.pstatic.net/stock-research/company/78/20260730_company_553119000.pdf"
+  },
+  {
+    "stock": "금호타이어",
+    "title": "믹스 개선 중심 물량 배분으로 수익성 방어",
+    "broker": "한화투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260731_company_220079000.pdf"
+  },
+  {
+    "stock": "진에어",
+    "title": "LCC의 유일한 선택지",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_823505000.pdf"
+  },
+  {
+    "stock": "동아쏘시오홀딩스",
+    "title": "사업 지주회사로 체질 개선",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_702051000.pdf"
+  },
+  {
+    "stock": "키움증권",
+    "title": "2Q26 Review: 분기별 사상 최대 실적, Top pi..",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_581728000.pdf"
+  },
+  {
+    "stock": "LG전자",
+    "title": "AI 수혜는 이제 시작",
+    "broker": "DS투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260731_company_499450000.pdf"
+  },
+  {
+    "stock": "iM금융지주",
+    "title": "2Q26 Reivew: 자사주 매입소각 확대와 비과세..",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_633174000.pdf"
+  },
+  {
+    "stock": "BNK금융지주",
+    "title": "2Q26 Review: 회계상 일시적 비용 제외 시, ..",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_496759000.pdf"
+  },
+  {
+    "stock": "기업은행",
+    "title": "2Q26 Review: 양호한 실적과 분기배당 최초 ..",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_490286000.pdf"
+  },
+  {
+    "stock": "금호타이어",
+    "title": "원가 부담보다 앞선 믹스 개선",
+    "broker": "DS투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260731_company_176315000.pdf"
+  },
+  {
+    "stock": "아모레퍼시픽",
+    "title": "나, 잘나가는 브랜드 많다?",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_35373000.pdf"
+  },
+  {
+    "stock": "포스코퓨처엠",
+    "title": "하반기에 몰린 물량과 판가",
+    "broker": "DS투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260731_company_908391000.pdf"
+  },
+  {
+    "stock": "삼성에스디에스",
+    "title": "글로벌 테넌트 유치 가능성 시사 긍정적",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_135240000.pdf"
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "지연된 물량, 채워지는 수주",
+    "broker": "DS투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260731_company_531646000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "2Q26 Review: 주택이 견인한 서프라이즈, 주..",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_729047000.pdf"
+  },
+  {
+    "stock": "HL만도",
+    "title": "2Q26 Review: 모난 것이 전혀 없다",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_800037000.pdf"
+  },
+  {
+    "stock": "한국항공우주",
+    "title": "실적도 수주도 하반기에 달려있다",
+    "broker": "DS투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260731_company_39672000.pdf"
+  },
+  {
+    "stock": "삼성전자",
+    "title": "2Q26 Review 변하지 않은 메모리 호황",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_495921000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "2Q26 Review AI가 이끈 수익성 레벨업",
+    "broker": "교보증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260731_company_976816000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "매수해야 되는 실적",
+    "broker": "DS투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260731_company_407973000.pdf"
+  },
+  {
+    "stock": "HL만도",
+    "title": "자동차 섀시에서 로봇 관절로 이어질 시간",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_886681000.pdf"
+  },
+  {
+    "stock": "삼성전자",
+    "title": "2Q26 Re: 폼은 일시적이지만 클래스는 영원하..",
+    "broker": "DS투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260731_company_314064000.pdf"
+  },
+  {
+    "stock": "포스코인터내셔널",
+    "title": "분기 최대 이익 경신",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_227607000.pdf"
+  },
+  {
+    "stock": "현대코퍼레이션",
+    "title": "일회성 없이 달성한 최대 실적",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_957622000.pdf"
+  },
+  {
+    "stock": "대한전선",
+    "title": "본질적인 성장이 지속되는 중",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_252014000.pdf"
+  },
+  {
+    "stock": "아모레퍼시픽",
+    "title": "K뷰티 최대 멀티 브랜드 대기업으로 Re-ratin..",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_354171000.pdf"
+  },
+  {
+    "stock": "HL만도",
+    "title": "본업 수익성 개선과 로봇 상용화 준비 지속",
+    "broker": "한화투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260731_company_8394000.pdf"
+  },
+  {
+    "stock": "SK이노베이션",
+    "title": "컨센 124% 상회. 연간 추정치 상향",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_905279000.pdf"
+  },
+  {
+    "stock": "POSCO홀딩스",
+    "title": "철강과 리튬 사업의 체력 개선 확인!",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_835028000.pdf"
+  },
+  {
+    "stock": "세아베스틸지주",
+    "title": "2분기 공격적 영업전략 주효!",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_784369000.pdf"
+  },
+  {
+    "stock": "POSCO홀딩스",
+    "title": "이차전지 소재부문 9분기 만에 흑자 전환",
+    "broker": "한화투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260731_company_338376000.pdf"
+  },
+  {
+    "stock": "삼성에스디에스",
+    "title": "데이터센터 로드맵 공개, 경쟁력 부각 전망",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_263121000.pdf"
+  },
+  {
+    "stock": "키움증권",
+    "title": "2Q26 Re - 트레이딩과 해외주식 부문이 예상..",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_669399000.pdf"
+  },
+  {
+    "stock": "삼성전자",
+    "title": "강력한 LTA와 주주환원으로 합당한 기업가치 ..",
+    "broker": "한화투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260731_company_957460000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "또 주택 마진 서프라이즈",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_98816000.pdf"
+  },
+  {
+    "stock": "금호타이어",
+    "title": "원가 걱정은 3분기가 끝, 판가 기대는 4분기..",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_297371000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "[2Q26 Review] 두 개 분기 연속 서프라이즈",
+    "broker": "한화투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260731_company_150034000.pdf"
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "하반기 강한 증익 모멘텀",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_2192000.pdf"
+  },
+  {
+    "stock": "LG전자",
+    "title": "강해진 이익 체력과 신사업 가속화",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_25386000.pdf"
+  },
+  {
+    "stock": "삼성물산",
+    "title": "[2Q26 Review] 모든 것이 탄탄하다",
+    "broker": "한화투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260731_company_224030000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "중요한 건 꺾이지 않는 업황",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_779484000.pdf"
+  },
+  {
+    "stock": "삼성전자",
+    "title": "메모리 산업의 구조적 변화에 주목",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_870310000.pdf"
+  },
+  {
+    "stock": "삼성SDI",
+    "title": "Strong Buy, 하반기에도 흑자 지속 전망",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_140594000.pdf"
+  },
+  {
+    "stock": "키움증권",
+    "title": "2026년 2분기 컨퍼런스 콜 요약",
+    "broker": "하나증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260731_company_361159000.pdf"
+  },
+  {
+    "stock": "포스코인터내셔널",
+    "title": "난세에 더 빛나는 실적",
+    "broker": "유안타증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260731_company_127020000.pdf"
+  },
+  {
+    "stock": "대한전선",
+    "title": "3개 분기 연속 최대 실적",
+    "broker": "유안타증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260731_company_25093000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "2Q26 Re: 아쉬움은 내려놓고 시선은 위로",
+    "broker": "유안타증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260731_company_985646000.pdf"
+  },
+  {
+    "stock": "제이브이엠",
+    "title": "2Q26 사상 최대 분기 실적",
+    "broker": "유안타증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260731_company_339609000.pdf"
+  },
+  {
+    "stock": "LG유플러스",
+    "title": "자사주, 배당, AIDC",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_643531000.pdf"
+  },
+  {
+    "stock": "키움증권",
+    "title": "전 부문 실적 약진함에 따라 어닝 서프라이즈..",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_225893000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "3Q는 예상 상회, 최고! FC BGA/MLCC, 공급부..",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_601523000.pdf"
+  },
+  {
+    "stock": "LG전자",
+    "title": "3Q 실적도 좋다! AI향 공조, 로봇의 구체화!",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_442496000.pdf"
+  },
+  {
+    "stock": "삼성전자",
+    "title": "동의할 수 없는 주가",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_341399000.pdf"
+  },
+  {
+    "stock": "삼성SDI",
+    "title": "예상보다 빨라진 흑전",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_917421000.pdf"
+  },
+  {
+    "stock": "포스코퓨처엠",
+    "title": "저점을 다져가는 중",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_523222000.pdf"
+  },
+  {
+    "stock": "현대오토에버",
+    "title": "실적으로만 볼 수는 없는 주식",
+    "broker": "대신증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260731_company_645118000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "마진율 개선에 따른 호실적",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_731579000.pdf"
+  },
+  {
+    "stock": "LX하우시스",
+    "title": "전분기에 이어 높아진 영업이익 시현",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_629528000.pdf"
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "EV도 회복 국면 진입",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_573791000.pdf"
+  },
+  {
+    "stock": "유한양행",
+    "title": "라즈클루즈 침투 가속화와 기술수출 기대",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_201400000.pdf"
+  },
+  {
+    "stock": "삼성에스디에스",
+    "title": "차별화된 AI 인프라 사업자",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_542262000.pdf"
+  },
+  {
+    "stock": "삼성SDI",
+    "title": "바뀐 것이 하나도 없음",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_199751000.pdf"
+  },
+  {
+    "stock": "대웅제약",
+    "title": "2Q26 Re: 나보타 수출증가, 컨센 상회",
+    "broker": "SK증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260731_company_726977000.pdf"
+  },
+  {
+    "stock": "LG디스플레이",
+    "title": "칩플레이션에도 수익성을 증명해야 할 순간",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_575660000.pdf"
+  },
+  {
+    "stock": "한컴",
+    "title": "2Q26P Review: 외형 성장 속에 AI 사업 확대",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_999936000.pdf"
+  },
+  {
+    "stock": "한컴라이프케어",
+    "title": "2Q26P Review: 분기 최대 매출, 수익성 개선 ..",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_968098000.pdf"
+  },
+  {
+    "stock": "HK이노엔",
+    "title": "2Q26 Re: 견조한 실적",
+    "broker": "SK증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260731_company_308868000.pdf"
+  },
+  {
+    "stock": "HL만도",
+    "title": "2Q26 리뷰: 로봇 액추에이터 수주 기대",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_724934000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "2연속 어닝 서프라이즈, Top-Pick 유지",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_941603000.pdf"
+  },
+  {
+    "stock": "한화비전",
+    "title": "역시나 듬직한 시큐리티",
+    "broker": "SK증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260731_company_575706000.pdf"
+  },
+  {
+    "stock": "아모레퍼시픽",
+    "title": "균형감 있는 성장 시작",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "대웅제약",
+    "title": "나보타 조기 선적이 앞당긴 이익",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_360611000.pdf"
+  },
+  {
+    "stock": "코나아이",
+    "title": "2분기는 예열, 3분기가 본게임",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "유한양행",
+    "title": "유럽 진출로 브랜드 뉴 데이",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "LG전자",
+    "title": "실적 체력 확인, 반등 기대 구간",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "아모레퍼시픽",
+    "title": "성장 궤도 진입",
+    "broker": "SK증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260731_company_738629000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "기회의 구간",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "삼성전자",
+    "title": "무시할 실적이 아니다",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_286371000.pdf"
+  },
+  {
+    "stock": "삼성전자",
+    "title": "명확한 주주환원 의지",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "클래시스",
+    "title": "연초 기대 대비 더딘 성장",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "키움증권",
+    "title": "올해 주주환원을 얼마나 할지 감도 안 옴",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "삼성전자",
+    "title": "품격을 보여줬다",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_135018000.pdf"
+  },
+  {
+    "stock": "기가비스",
+    "title": "실적 성장의 방향성은 명확하다",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_927182000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "MLCC 가격 인상! 쉽게 보면 안된다",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_376953000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "2Q26 Re: 인상적인 영업이익, 아쉬운 플랜트 ..",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_861041000.pdf"
+  },
+  {
+    "stock": "SK하이닉스",
+    "title": "시간의 문제",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_823288000.pdf"
+  },
+  {
+    "stock": "HL만도",
+    "title": "2Q26 Review: 하반기에 빛날 만도",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_452490000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "수익성 개선 효과 지속",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "SK이노베이션",
+    "title": "전쟁 수혜 + 배터리 보상금 반영",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_959506000.pdf"
+  },
+  {
+    "stock": "서부T&D",
+    "title": "네러티브와 실적 겸비",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "SK아이이테크놀로지",
+    "title": "거점 재편 이후, 남은 것은 수요",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "LG전자",
+    "title": "높아진 경쟁력, 신사업으로 한계에서 벗어난..",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_344542000.pdf"
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "ESS가 이끄는 외형 성장",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_851002000.pdf"
+  },
+  {
+    "stock": "포스코인터내셔널",
+    "title": "팜과 에너지의 동반 성장, 분기 최대 이익 경..",
+    "broker": "유진투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260731_company_937154000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "2Q26 Review: 주주환원으로 연결되는 호실적",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_79398000.pdf"
+  },
+  {
+    "stock": "SK이노베이션",
+    "title": "높아진 이익 체력",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "LG전자",
+    "title": "전 사업부가 연초 우려 대비 선방",
+    "broker": "SK증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260731_company_99923000.pdf"
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "90 - 20 = 70",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_898977000.pdf"
+  },
+  {
+    "stock": "삼성SDI",
+    "title": "SS가 좋은 날",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_845660000.pdf"
+  },
+  {
+    "stock": "포스코퓨처엠",
+    "title": "재고 소진 시기",
+    "broker": "IBK투자증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260731_company_676653000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "\"MLCC 개당 5원 시대\", 7년 만의 귀환",
+    "broker": "SK증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260731_company_715203000.pdf"
+  },
+  {
+    "stock": "HL만도",
+    "title": "잠시 쉬어도 괜찮아",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_442083000.pdf"
+  },
+  {
+    "stock": "포스코퓨처엠",
+    "title": "예상보다 더딘 가동률 회복으로 중장기 접근 ..",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_935598000.pdf"
+  },
+  {
+    "stock": "포스코인터내셔널",
+    "title": "또 다시 어닝 서프라이즈",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "키움증권",
+    "title": "양호한 실적과 저평가, 그렇지 못한 환경",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_290990000.pdf"
+  },
+  {
+    "stock": "세아베스틸지주",
+    "title": "하반기 업종 최선호주",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_857250000.pdf"
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "늦어진 만큼 선명해진 회복",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "삼성SDI",
+    "title": "흑자전환, 다음은 본업",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "중장기 성장성 확인, 다만 단기 ESS 수익성 ..",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_767234000.pdf"
+  },
+  {
+    "stock": "POSCO홀딩스",
+    "title": "본업보다 강해지고 있는 자회사 체력",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_137061000.pdf"
+  },
+  {
+    "stock": "삼성SDI",
+    "title": "분기 흑자전환 달성, 실적 개선 속도는 점검 ..",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_257399000.pdf"
+  },
+  {
+    "stock": "LG에너지솔루션",
+    "title": "하반기에도 ESS 중심 실적 개선세 지속",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_635164000.pdf"
+  },
+  {
+    "stock": "삼성전기",
+    "title": "10년 평균치로 회귀한 밸류에이션과, 더 강해..",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_102915000.pdf"
+  },
+  {
+    "stock": "삼성SDI",
+    "title": "ESS로의 사업 전환 가속화 전망",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_100907000.pdf"
+  },
+  {
+    "stock": "SK이노베이션",
+    "title": "두 번의 전쟁으로 완전히 꼬여 버린 에너지 ..",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_252654000.pdf"
+  },
+  {
+    "stock": "롯데정밀화학",
+    "title": "글리세린 강세로 인한 ECH 반사수혜 지속 전..",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_947080000.pdf"
+  },
+  {
+    "stock": "HS효성첨단소재",
+    "title": "상고하고 실적 기대되는 몇 안되는 업체",
+    "broker": "iM증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260731_company_783608000.pdf"
+  },
+  {
+    "stock": "포스코퓨처엠",
+    "title": "회복의 해법은 다변화",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "삼성전기",
+    "title": "우려를 걷어내고 만개하는 업황에 주목할 때",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_124440000.pdf"
+  },
+  {
+    "stock": "키움증권",
+    "title": "2Q26 Review: 기대 이상의 2분기. 관건은 하..",
+    "broker": "SK증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260731_company_745366000.pdf"
+  },
+  {
+    "stock": "포스코인터내셔널",
+    "title": "한층 더 단단해진 체력",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_749391000.pdf"
+  },
+  {
+    "stock": "DL이앤씨",
+    "title": "Top Pick 유지, 북미 중심의 수주 확대 기대",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_986453000.pdf"
+  },
+  {
+    "stock": "인텔리안테크",
+    "title": "본격적인 성장 구간 진입",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_933573000.pdf"
+  },
+  {
+    "stock": "현대로템",
+    "title": "인내의 시기",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_418366000.pdf"
+  },
+  {
+    "stock": "POSCO홀딩스",
+    "title": "아르헨티나 리튬 첫 분기 흑자!",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_496657000.pdf"
+  },
+  {
+    "stock": "삼성전자",
+    "title": "3Q26 실적 전망치 상향",
+    "broker": "키움증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260731_company_465619000.pdf"
+  },
+  {
+    "stock": "포스코인터내셔널",
+    "title": "위기에 나타난 서프라이즈",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_548145000.pdf"
+  },
+  {
+    "stock": "CJ",
+    "title": "밸류업으로 이어질 올리브영의 성장성",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_61693000.pdf"
+  },
+  {
+    "stock": "LS",
+    "title": "전력 슈퍼사이클: 성장을 계량하다",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_915437000.pdf"
+  },
+  {
+    "stock": "한화",
+    "title": "분할이 여는 경로: 이벤트 이후를 산다",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_803717000.pdf"
+  },
+  {
+    "stock": "HD현대",
+    "title": "경로가 열리는 조선 지주: 최상의 환원 여력",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_441296000.pdf"
+  },
+  {
+    "stock": "대한조선",
+    "title": "2Q26 실적발표, 분기 최대 매출, 무난함이 강..",
+    "broker": "신한투자증권",
+    "date": "26.07.31",
+    "pdf_url": ""
+  },
+  {
+    "stock": "LG",
+    "title": "지분법 지주의 정석: 자회사 가치의 거울",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_676099000.pdf"
+  },
+  {
+    "stock": "크로넥스",
+    "title": "국내 유일 고유종 미니피그로 CRO에서 이종장..",
+    "broker": "NICE평가정보",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/69/20260731_company_411353000.pdf"
+  },
+  {
+    "stock": "제놀루션",
+    "title": "RNA 기술 하나로 진단과 그린바이오를 잇는 ..",
+    "broker": "NICE평가정보",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/69/20260731_company_809884000.pdf"
+  },
+  {
+    "stock": "제넥신",
+    "title": "후보물질 발굴부터 상업화까지, bioPROTAC이 ..",
+    "broker": "NICE평가정보",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/69/20260731_company_815509000.pdf"
+  },
+  {
+    "stock": "파인메딕스",
+    "title": "소화기 내시경 시술기구 기술 경쟁력을 기반..",
+    "broker": "서울평가정보",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260731_company_543205000.pdf"
+  },
+  {
+    "stock": "예선테크",
+    "title": "기능성 점착소재의 설계·정밀가공 역량 기반..",
+    "broker": "서울평가정보",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260731_company_184541000.pdf"
+  },
+  {
+    "stock": "선광",
+    "title": "컨테이너·양곡 중심 항만 인프라와 자동화 ..",
+    "broker": "서울평가정보",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260731_company_198606000.pdf"
+  },
+  {
+    "stock": "이노메트리",
+    "title": "X-ray·CT와 AI 융합기술을 기반으로 2차전지..",
+    "broker": "서울평가정보",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260731_company_464252000.pdf"
+  },
+  {
+    "stock": "해성디에스",
+    "title": "숫자로 돌아온 리드프레임",
+    "broker": "미래에셋증권",
+    "date": "26.07.31",
+    "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260731_company_790577000.pdf"
   }
 ]
