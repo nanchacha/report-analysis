@@ -2,7 +2,7 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def scrape_naver_reports():
     url = "https://finance.naver.com/research/company_list.naver"
@@ -10,20 +10,25 @@ def scrape_naver_reports():
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
     
-    # We will just scrape the first few pages to be sure we get all of today's or recent reports.
-    # For a real service, it might check the date and stop, but here we just get page 1 to 3.
     reports = []
+    page = 1
+    cutoff_date = datetime.now() - timedelta(days=7)
     
-    for page in range(1, 6):
+    while True:
         resp = requests.get(f"{url}?&page={page}", headers=headers)
         resp.encoding = 'euc-kr'
         soup = BeautifulSoup(resp.text, 'html.parser')
         
         table = soup.select_one('table.type_1')
         if not table:
-            continue
+            break
             
         rows = table.select('tr')
+        if not rows:
+            break
+            
+        older_than_week = False
+        
         for row in rows:
             tds = row.select('td')
             if len(tds) >= 5:
@@ -32,14 +37,19 @@ def scrape_naver_reports():
                 broker = tds[2].text.strip()
                 date_str = tds[4].text.strip()
                 
+                if date_str:
+                    try:
+                        report_date = datetime.strptime(date_str, '%y.%m.%d')
+                        if report_date < cutoff_date:
+                            older_than_week = True
+                            continue
+                    except ValueError:
+                        pass
+                
                 pdf_link_tag = tds[3].select_one('a')
                 pdf_url = pdf_link_tag['href'] if pdf_link_tag else ""
                 
-                # We can choose to filter by today's date if we want,
-                # but for the sake of having enough data to display, 
-                # let's just gather recent reports.
-                
-                if stock_name: # Ensure it's not an empty row
+                if stock_name and not older_than_week:
                     reports.append({
                         'stock': stock_name,
                         'title': title,
@@ -48,6 +58,11 @@ def scrape_naver_reports():
                         'pdf_url': pdf_url
                     })
                     
+        if older_than_week:
+            break
+            
+        page += 1
+        
     return reports
 
 def process_reports(reports):

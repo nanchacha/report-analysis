@@ -1,0 +1,122 @@
+[
+  {
+    "stock": "세나테크놀로지",
+    "count": 2,
+    "reports": [
+      {
+        "title": "피지컬 AI 정책 덕분에 하반기 주가 전망은 ..",
+        "broker": "하나증권",
+        "date": "26.07.13"
+      },
+      {
+        "title": "세나테크놀로지의 실적은 쎄다",
+        "broker": "유안타증권",
+        "date": "26.07.13"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 10,
+      "technical": 25,
+      "fundamental": 25,
+      "total": 75
+    },
+    "code": "061090"
+  },
+  {
+    "stock": "GS건설",
+    "count": 2,
+    "reports": [
+      {
+        "title": "2Q26 Preview: 순항중인 건축주택 수주",
+        "broker": "교보증권",
+        "date": "26.07.14"
+      },
+      {
+        "title": "실적은 상저하고, 26년 이후 실적은 상향",
+        "broker": "신한투자증권",
+        "date": "26.07.13"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 15,
+      "total": 70
+    },
+    "code": "006360"
+  },
+  {
+    "stock": "현대모비스",
+    "count": 3,
+    "reports": [
+      {
+        "title": "2분기 프리뷰: 부합 전망. 로봇 부품도 일정..",
+        "broker": "하나증권",
+        "date": "26.07.14"
+      },
+      {
+        "title": "2분기는 기대 이상, 하반기는 리스크 확대 우..",
+        "broker": "키움증권",
+        "date": "26.07.14"
+      },
+      {
+        "title": "2Q26 프리뷰: 호실적 이후에는 다시 로봇",
+        "broker": "미래에셋증권",
+        "date": "26.07.14"
+      }
+    ],
+    "scores": {
+      "attention": 20,
+      "momentum": 20,
+      "technical": 0,
+      "fundamental": 25,
+      "total": 65
+    },
+    "code": "012330"
+  },
+  {
+    "stock": "한국콜마",
+    "count": 2,
+    "reports": [
+      {
+        "title": "국내 법인 호실적 예상",
+        "broker": "SK증권",
+        "date": "26.07.14"
+      },
+      {
+        "title": "2Q26 Preview: 사상 최대 실적 갱신 기대",
+        "broker": "유진투자증권",
+        "date": "26.07.13"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 15,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 60
+    },
+    "code": "161890"
+  },
+  {
+    "stock": "롯데렌탈",
+    "count": 1,
+    "reports": [
+      {
+        "title": "매력적인 포트폴리오,저평가 그래서 관심이 ..",
+        "broker": "대신증권",
+        "date": "26.07.14"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 25,
+      "total": 60
+    },
+    "code": "089860"
+  }
+]
