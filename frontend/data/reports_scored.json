@@ -236,6 +236,160 @@
     "code": "251970"
   },
   {
+    "stock": "카카오",
+    "count": 13,
+    "reports": [
+      {
+        "title": "국민 메신저 카카오톡, 내 손안의 AI 에이전..",
+        "broker": "대신증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_437617000.pdf"
+      },
+      {
+        "title": "유의미한 이익 체질개선, AI성과 가시화에 주..",
+        "broker": "유진투자증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260810_company_814342000.pdf"
+      },
+      {
+        "title": "목표대로 선투자기에도 이익 성장. 낮은 AI ..",
+        "broker": "교보증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260807_company_89006000.pdf"
+      },
+      {
+        "title": "핵심사업 이익 체력 확인",
+        "broker": "한화투자증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260807_company_175519000.pdf"
+      },
+      {
+        "title": "사용자의 마음을 잡아야 한다",
+        "broker": "하나증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_951539000.pdf"
+      },
+      {
+        "title": "성장성 수익성 모두 UP",
+        "broker": "유안타증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260807_company_961348000.pdf"
+      },
+      {
+        "title": "실적 서프라이즈, 주가는 AI 성과가 결정",
+        "broker": "신한투자증권",
+        "date": "26.08.07",
+        "pdf_url": ""
+      },
+      {
+        "title": "카카오, 인적분할 공시 관련 코멘트",
+        "broker": "한화투자증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260824_company_769257000.pdf"
+      },
+      {
+        "title": "성장주로의 복귀를 위한 포석",
+        "broker": "교보증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260824_company_136027000.pdf"
+      },
+      {
+        "title": "X/AI로 나뉘는 카카오, 우선은 지켜보자",
+        "broker": "하나증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260824_company_772892000.pdf"
+      },
+      {
+        "title": "인적분할 결정",
+        "broker": "미래에셋증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260824_company_319267000.pdf"
+      },
+      {
+        "title": "인적분할의 긍정적인 측면과 한계점",
+        "broker": "유진투자증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260824_company_919283000.pdf"
+      },
+      {
+        "title": "복합적 변수 고려할 필요",
+        "broker": "키움증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260824_company_632606000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 70
+    },
+    "code": "035720"
+  },
+  {
+    "stock": "한국금융지주",
+    "count": 8,
+    "reports": [
+      {
+        "title": "2Q26 Re: 국내 증시 호조에 기반한 실적 서프..",
+        "broker": "키움증권",
+        "date": "26.08.11",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260811_company_909105000.pdf"
+      },
+      {
+        "title": "2Q26 Reivew: 증권 실적 호조 및 계열사 손익..",
+        "broker": "교보증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260807_company_580524000.pdf"
+      },
+      {
+        "title": "2Q26 Re - 업황 둔화 우려는 충분히 반영된 ..",
+        "broker": "하나증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_609680000.pdf"
+      },
+      {
+        "title": "펀더로 압도해버림",
+        "broker": "대신증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_72733000.pdf"
+      },
+      {
+        "title": "업황은 같은데 보법이 다르네",
+        "broker": "신한투자증권",
+        "date": "26.08.07",
+        "pdf_url": ""
+      },
+      {
+        "title": "거래대금은 거들 뿐",
+        "broker": "iM증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260807_company_166057000.pdf"
+      },
+      {
+        "title": "2Q26 Review: 1조 야르~",
+        "broker": "SK증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260807_company_389215000.pdf"
+      },
+      {
+        "title": "KDB생명 인수 우선협상대상자 선정",
+        "broker": "신한투자증권",
+        "date": "26.08.14",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 70
+    },
+    "code": "071050"
+  },
+  {
     "stock": "LIG디펜스앤에어로스페이스",
     "count": 8,
     "reports": [
@@ -442,84 +596,30 @@
     "code": "035760"
   },
   {
-    "stock": "LG유플러스",
-    "count": 11,
+    "stock": "포스코DX",
+    "count": 2,
     "reports": [
       {
-        "title": "조용히, 더 강해지는 중",
-        "broker": "삼성증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/78/20260812_company_549011000.pdf"
-      },
-      {
-        "title": "보여준 주주환원 확대 의지",
-        "broker": "iM증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260810_company_654601000.pdf"
-      },
-      {
-        "title": "2026년 2분기 컨퍼런스콜 요약",
-        "broker": "하나증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_67586000.pdf"
-      },
-      {
-        "title": "2Q 리뷰 - 어닝 서프라이즈, 주가 한 단계 높..",
-        "broker": "하나증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_110461000.pdf"
-      },
-      {
-        "title": "분기 최대 이익과 AIDC 성장",
-        "broker": "유안타증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260807_company_94228000.pdf"
-      },
-      {
-        "title": "차분하게 성장하는 기업",
+        "title": "수주는 회복됐지만 Physical AI는 아직 옵션",
         "broker": "대신증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_264194000.pdf"
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_460390000.pdf"
       },
       {
-        "title": "2Q26 Review: 파주에서 자라는 새로운 Cash C..",
-        "broker": "유진투자증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260807_company_700443000.pdf"
-      },
-      {
-        "title": "마음 편한 배당주 투자처",
+        "title": "쇳물보다 먼저 달아오른 수주",
         "broker": "신한투자증권",
-        "date": "26.08.07",
+        "date": "26.08.27",
         "pdf_url": ""
-      },
-      {
-        "title": "실적도 주주환원도 기대이상",
-        "broker": "SK증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260807_company_379830000.pdf"
-      },
-      {
-        "title": "분기 최대 영업이익 달성",
-        "broker": "미래에셋증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260807_company_104515000.pdf"
-      },
-      {
-        "title": "9월 전략 - 3개월 이상 내다보면 주가 전망 ..",
-        "broker": "하나증권",
-        "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260901_company_976082000.pdf"
       }
     ],
     "scores": {
-      "attention": 25,
+      "attention": 15,
       "momentum": 25,
-      "technical": 10,
+      "technical": 25,
       "fundamental": 5,
-      "total": 65
+      "total": 70
     },
-    "code": "032640"
+    "code": "022100"
   },
   {
     "stock": "CJ제일제당",
@@ -564,6 +664,234 @@
       "total": 65
     },
     "code": "097950"
+  },
+  {
+    "stock": "LG",
+    "count": 5,
+    "reports": [
+      {
+        "title": "전자계열사 실적 개선. 로봇사업 기대도 여전..",
+        "broker": "하나증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260814_company_137909000.pdf"
+      },
+      {
+        "title": "2Q26 Review : 오픈웨이트 AI 모델 개발사",
+        "broker": "한화투자증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260814_company_868176000.pdf"
+      },
+      {
+        "title": "지분법손익 개선과 자사주 전량 소각 이행 완..",
+        "broker": "대신증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260814_company_542868000.pdf"
+      },
+      {
+        "title": "제도로 뒷받침될 매력",
+        "broker": "미래에셋증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260814_company_530055000.pdf"
+      },
+      {
+        "title": "엔비디아가 LG를 고른 이유",
+        "broker": "대신증권",
+        "date": "26.08.21",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260821_company_35227000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 20,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 65
+    },
+    "code": "003550"
+  },
+  {
+    "stock": "티엘비",
+    "count": 4,
+    "reports": [
+      {
+        "title": "[NDR 후기] SOCAMM 확인, 남은 건 속도",
+        "broker": "유안타증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260818_company_597735000.pdf"
+      },
+      {
+        "title": "공급자 우위 업황은 수주잔고로 갈음합니다",
+        "broker": "키움증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260818_company_412884000.pdf"
+      },
+      {
+        "title": "엔비디아 CPU 바로 옆 자리",
+        "broker": "IBK투자증권",
+        "date": "26.08.26",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260826_company_910413000.pdf"
+      },
+      {
+        "title": "공급자 우위/SOCAMM 등으로 올해/내년 사상 ..",
+        "broker": "iM증권",
+        "date": "26.08.31",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260831_company_347491000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 20,
+      "momentum": 15,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 65
+    },
+    "code": "356860"
+  },
+  {
+    "stock": "비에이치",
+    "count": 3,
+    "reports": [
+      {
+        "title": "이익 성장은 변화 없다! 삼성의 로봇 사업에 ..",
+        "broker": "대신증권",
+        "date": "26.08.11",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260811_company_77075000.pdf"
+      },
+      {
+        "title": "폴더블폰(애플,삼성) 그리고 로봇에서 신성장..",
+        "broker": "대신증권",
+        "date": "26.09.01",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260901_company_308326000.pdf"
+      },
+      {
+        "title": "폴더블과 로봇의 두축",
+        "broker": "미래에셋증권",
+        "date": "26.09.01",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260901_company_606947000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 20,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 65
+    },
+    "code": "090460"
+  },
+  {
+    "stock": "한화에어로스페이스",
+    "count": 3,
+    "reports": [
+      {
+        "title": "NDR 후기: 상반기보다 하반기, 3분기보다 4분..",
+        "broker": "하나증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260810_company_141836000.pdf"
+      },
+      {
+        "title": "K9MH의 미국 진출, 단일 수주 이상의 의미",
+        "broker": "DS투자증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260824_company_957228000.pdf"
+      },
+      {
+        "title": "스페인 사업까지 수주, 강화되는 현지화 경쟁..",
+        "broker": "한국투자증권",
+        "date": "26.09.01",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 20,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 65
+    },
+    "code": "012450"
+  },
+  {
+    "stock": "비에이치아이",
+    "count": 3,
+    "reports": [
+      {
+        "title": "수주 가시성 확대 및 올해 사상 최대 실적 가..",
+        "broker": "iM증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260810_company_934579000.pdf"
+      },
+      {
+        "title": "어닝 서프라이즈, 하반기도 순항",
+        "broker": "IBK투자증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260818_company_577849000.pdf"
+      },
+      {
+        "title": "성장 가시성에 수익성까지",
+        "broker": "신한투자증권",
+        "date": "26.08.19",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 20,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 65
+    },
+    "code": "083650"
+  },
+  {
+    "stock": "미래에셋증권",
+    "count": 6,
+    "reports": [
+      {
+        "title": "2Q26 Review: 2026년 수익구조 고도화의 시작",
+        "broker": "교보증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260813_company_763260000.pdf"
+      },
+      {
+        "title": "2026년 2분기 컨퍼런스 콜 요약",
+        "broker": "하나증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260813_company_268654000.pdf"
+      },
+      {
+        "title": "우주에 묻혀버린 양호한 실적",
+        "broker": "유안타증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260813_company_663165000.pdf"
+      },
+      {
+        "title": "2Q26 Re: 단기 실적 변동성과 장기 확고한 방..",
+        "broker": "키움증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260813_company_368776000.pdf"
+      },
+      {
+        "title": "사상 최대 실적",
+        "broker": "신한투자증권",
+        "date": "26.08.13",
+        "pdf_url": ""
+      },
+      {
+        "title": "2Q26 Review: 역대급 실적. 하반기 변동성 관..",
+        "broker": "SK증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260813_company_264239000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 60
+    },
+    "code": "006800"
   },
   {
     "stock": "실리콘투",
@@ -616,6 +944,190 @@
     "code": "257720"
   },
   {
+    "stock": "SK오션플랜트",
+    "count": 5,
+    "reports": [
+      {
+        "title": "2Q26 Review: 골짜기 앞에서 확인한 수주 체..",
+        "broker": "교보증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260813_company_393262000.pdf"
+      },
+      {
+        "title": "하반기 매출 감소 예상. 다만 전방 시장은 확..",
+        "broker": "하나증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260813_company_324801000.pdf"
+      },
+      {
+        "title": "당분간 가시밭길",
+        "broker": "DS투자증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260813_company_940973000.pdf"
+      },
+      {
+        "title": "단기 실적은 부진하나 전방 시장은 확대",
+        "broker": "유진투자증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260813_company_928962000.pdf"
+      },
+      {
+        "title": "낮아진 눈높이에서 다시 시작",
+        "broker": "미래에셋증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260813_company_156975000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 60
+    },
+    "code": "100090"
+  },
+  {
+    "stock": "메리츠금융지주",
+    "count": 5,
+    "reports": [
+      {
+        "title": "장기 투자를 선호한다면",
+        "broker": "신한투자증권",
+        "date": "26.08.13",
+        "pdf_url": ""
+      },
+      {
+        "title": "다른 선택지가 애매할 때 부각되는 펀더멘털",
+        "broker": "iM증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260813_company_710906000.pdf"
+      },
+      {
+        "title": "2Q26 Re: 당연해진 실적 서프라이즈",
+        "broker": "키움증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260813_company_421385000.pdf"
+      },
+      {
+        "title": "화재가 견인한 2분기 서프",
+        "broker": "대신증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260814_company_539604000.pdf"
+      },
+      {
+        "title": "차별화된 성장세 지속",
+        "broker": "미래에셋증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260814_company_385652000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 60
+    },
+    "code": "138040"
+  },
+  {
+    "stock": "알테오젠",
+    "count": 5,
+    "reports": [
+      {
+        "title": "QLEX 순항, 확장되는 플랫폼",
+        "broker": "대신증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_178054000.pdf"
+      },
+      {
+        "title": "QLEX 순항, 확장되는 플랫폼",
+        "broker": "대신증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260814_company_264964000.pdf"
+      },
+      {
+        "title": "암 백신 또한 키트루다SC가 메인",
+        "broker": "신한투자증권",
+        "date": "26.08.24",
+        "pdf_url": ""
+      },
+      {
+        "title": "반복되는 기술수출, ALT-B4 가치 재평가",
+        "broker": "대신증권",
+        "date": "26.09.03",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260903_company_359168000.pdf"
+      },
+      {
+        "title": "세계 최초 유전자 치료제 SC, 서프라이즈",
+        "broker": "신한투자증권",
+        "date": "26.09.03",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 60
+    },
+    "code": "196170"
+  },
+  {
+    "stock": "LG전자",
+    "count": 2,
+    "reports": [
+      {
+        "title": "시황을 사는 주식에서 수주를 사는 주식으로",
+        "broker": "iM증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260813_company_375435000.pdf"
+      },
+      {
+        "title": "AIDC, 10월 2.5조원의 수주 전망",
+        "broker": "교보증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260818_company_43313000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 60
+    },
+    "code": "066570"
+  },
+  {
+    "stock": "NHN KCP",
+    "count": 2,
+    "reports": [
+      {
+        "title": "Golden Triangle: 최대 실적·최저 밸류·스..",
+        "broker": "IBK투자증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260810_company_278849000.pdf"
+      },
+      {
+        "title": "NDR 후기: PG를 넘어 AI 결제 인프라로",
+        "broker": "신한투자증권",
+        "date": "26.08.21",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 25,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 60
+    },
+    "code": "060250"
+  },
+  {
     "stock": "로보티즈",
     "count": 2,
     "reports": [
@@ -640,98 +1152,6 @@
       "total": 60
     },
     "code": "108490"
-  },
-  {
-    "stock": "카카오",
-    "count": 13,
-    "reports": [
-      {
-        "title": "국민 메신저 카카오톡, 내 손안의 AI 에이전..",
-        "broker": "대신증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_437617000.pdf"
-      },
-      {
-        "title": "유의미한 이익 체질개선, AI성과 가시화에 주..",
-        "broker": "유진투자증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260810_company_814342000.pdf"
-      },
-      {
-        "title": "목표대로 선투자기에도 이익 성장. 낮은 AI ..",
-        "broker": "교보증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260807_company_89006000.pdf"
-      },
-      {
-        "title": "핵심사업 이익 체력 확인",
-        "broker": "한화투자증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260807_company_175519000.pdf"
-      },
-      {
-        "title": "사용자의 마음을 잡아야 한다",
-        "broker": "하나증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_951539000.pdf"
-      },
-      {
-        "title": "성장성 수익성 모두 UP",
-        "broker": "유안타증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260807_company_961348000.pdf"
-      },
-      {
-        "title": "실적 서프라이즈, 주가는 AI 성과가 결정",
-        "broker": "신한투자증권",
-        "date": "26.08.07",
-        "pdf_url": ""
-      },
-      {
-        "title": "카카오, 인적분할 공시 관련 코멘트",
-        "broker": "한화투자증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260824_company_769257000.pdf"
-      },
-      {
-        "title": "성장주로의 복귀를 위한 포석",
-        "broker": "교보증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260824_company_136027000.pdf"
-      },
-      {
-        "title": "X/AI로 나뉘는 카카오, 우선은 지켜보자",
-        "broker": "하나증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260824_company_772892000.pdf"
-      },
-      {
-        "title": "인적분할 결정",
-        "broker": "미래에셋증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260824_company_319267000.pdf"
-      },
-      {
-        "title": "인적분할의 긍정적인 측면과 한계점",
-        "broker": "유진투자증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260824_company_919283000.pdf"
-      },
-      {
-        "title": "복합적 변수 고려할 필요",
-        "broker": "키움증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260824_company_632606000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 25,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 55
-    },
-    "code": "035720"
   },
   {
     "stock": "DB손해보험",
@@ -818,6 +1238,86 @@
       "total": 55
     },
     "code": "005830"
+  },
+  {
+    "stock": "LG유플러스",
+    "count": 11,
+    "reports": [
+      {
+        "title": "조용히, 더 강해지는 중",
+        "broker": "삼성증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/78/20260812_company_549011000.pdf"
+      },
+      {
+        "title": "보여준 주주환원 확대 의지",
+        "broker": "iM증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260810_company_654601000.pdf"
+      },
+      {
+        "title": "2026년 2분기 컨퍼런스콜 요약",
+        "broker": "하나증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_67586000.pdf"
+      },
+      {
+        "title": "2Q 리뷰 - 어닝 서프라이즈, 주가 한 단계 높..",
+        "broker": "하나증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_110461000.pdf"
+      },
+      {
+        "title": "분기 최대 이익과 AIDC 성장",
+        "broker": "유안타증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260807_company_94228000.pdf"
+      },
+      {
+        "title": "차분하게 성장하는 기업",
+        "broker": "대신증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_264194000.pdf"
+      },
+      {
+        "title": "2Q26 Review: 파주에서 자라는 새로운 Cash C..",
+        "broker": "유진투자증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260807_company_700443000.pdf"
+      },
+      {
+        "title": "마음 편한 배당주 투자처",
+        "broker": "신한투자증권",
+        "date": "26.08.07",
+        "pdf_url": ""
+      },
+      {
+        "title": "실적도 주주환원도 기대이상",
+        "broker": "SK증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260807_company_379830000.pdf"
+      },
+      {
+        "title": "분기 최대 영업이익 달성",
+        "broker": "미래에셋증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260807_company_104515000.pdf"
+      },
+      {
+        "title": "9월 전략 - 3개월 이상 내다보면 주가 전망 ..",
+        "broker": "하나증권",
+        "date": "26.09.01",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260901_company_976082000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 25,
+      "technical": 0,
+      "fundamental": 5,
+      "total": 55
+    },
+    "code": "032640"
   },
   {
     "stock": "NAVER",
@@ -1022,130 +1522,6 @@
       "total": 55
     },
     "code": "128940"
-  },
-  {
-    "stock": "BGF리테일",
-    "count": 8,
-    "reports": [
-      {
-        "title": "매출 성장과 영업 레버리지 효과 동시 경험 ..",
-        "broker": "삼성증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/78/20260812_company_383198000.pdf"
-      },
-      {
-        "title": "2Q26 Review: 일회성 비용에도 역대 최대 실..",
-        "broker": "유진투자증권",
-        "date": "26.08.11",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260811_company_429021000.pdf"
-      },
-      {
-        "title": "2Q26 Review : 비운의 천재",
-        "broker": "한화투자증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260807_company_215517000.pdf"
-      },
-      {
-        "title": "확대되는 외국인 인바운드 효과",
-        "broker": "하나증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_205297000.pdf"
-      },
-      {
-        "title": "극성수기가 길어지고 외국인 매출이 가파르게..",
-        "broker": "대신증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_157983000.pdf"
-      },
-      {
-        "title": "좋다라고 밖에 표현할 수 없는 실적!",
-        "broker": "IBK투자증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260807_company_107782000.pdf"
-      },
-      {
-        "title": "편의점으로 바통 터치",
-        "broker": "신한투자증권",
-        "date": "26.08.07",
-        "pdf_url": ""
-      },
-      {
-        "title": "2분기도 시장 기대치 상회",
-        "broker": "키움증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260807_company_790437000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 15,
-      "technical": 10,
-      "fundamental": 5,
-      "total": 55
-    },
-    "code": "282330"
-  },
-  {
-    "stock": "한국금융지주",
-    "count": 8,
-    "reports": [
-      {
-        "title": "2Q26 Re: 국내 증시 호조에 기반한 실적 서프..",
-        "broker": "키움증권",
-        "date": "26.08.11",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260811_company_909105000.pdf"
-      },
-      {
-        "title": "2Q26 Reivew: 증권 실적 호조 및 계열사 손익..",
-        "broker": "교보증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260807_company_580524000.pdf"
-      },
-      {
-        "title": "2Q26 Re - 업황 둔화 우려는 충분히 반영된 ..",
-        "broker": "하나증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_609680000.pdf"
-      },
-      {
-        "title": "펀더로 압도해버림",
-        "broker": "대신증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_72733000.pdf"
-      },
-      {
-        "title": "업황은 같은데 보법이 다르네",
-        "broker": "신한투자증권",
-        "date": "26.08.07",
-        "pdf_url": ""
-      },
-      {
-        "title": "거래대금은 거들 뿐",
-        "broker": "iM증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260807_company_166057000.pdf"
-      },
-      {
-        "title": "2Q26 Review: 1조 야르~",
-        "broker": "SK증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260807_company_389215000.pdf"
-      },
-      {
-        "title": "KDB생명 인수 우선협상대상자 선정",
-        "broker": "신한투자증권",
-        "date": "26.08.14",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 25,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 55
-    },
-    "code": "071050"
   },
   {
     "stock": "JYP Ent.",
@@ -1542,32 +1918,26 @@
     "code": "011200"
   },
   {
-    "stock": "티엘비",
-    "count": 4,
+    "stock": "일진전기",
+    "count": 3,
     "reports": [
       {
-        "title": "[NDR 후기] SOCAMM 확인, 남은 건 속도",
+        "title": "서프라이즈 실적, 밸류에이션 매력 확대",
         "broker": "유안타증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260818_company_597735000.pdf"
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260812_company_587325000.pdf"
       },
       {
-        "title": "공급자 우위 업황은 수주잔고로 갈음합니다",
-        "broker": "키움증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260818_company_412884000.pdf"
+        "title": "가장 저평가된 전력기기 기업",
+        "broker": "미래에셋증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260812_company_656752000.pdf"
       },
       {
-        "title": "엔비디아 CPU 바로 옆 자리",
-        "broker": "IBK투자증권",
-        "date": "26.08.26",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260826_company_910413000.pdf"
-      },
-      {
-        "title": "공급자 우위/SOCAMM 등으로 올해/내년 사상 ..",
-        "broker": "iM증권",
-        "date": "26.08.31",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260831_company_347491000.pdf"
+        "title": "투자를 먼저 끝낸 회사의 수확기의 모습",
+        "broker": "SK증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260824_company_67255000.pdf"
       }
     ],
     "scores": {
@@ -1577,7 +1947,7 @@
       "fundamental": 5,
       "total": 55
     },
-    "code": "356860"
+    "code": "103590"
   },
   {
     "stock": "코스맥스엔비티",
@@ -1644,6 +2014,38 @@
     "code": "234340"
   },
   {
+    "stock": "DN오토모티브",
+    "count": 3,
+    "reports": [
+      {
+        "title": "변화구에 지친 자들을 위한 묵직한 돌직구",
+        "broker": "키움증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260810_company_368521000.pdf"
+      },
+      {
+        "title": "서프라이즈는 2분기로 끝나지 않는다",
+        "broker": "하나증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260818_company_452591000.pdf"
+      },
+      {
+        "title": "NDR 후기: 흔들린 건 주가뿐",
+        "broker": "하나증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260824_company_878670000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 20,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 55
+    },
+    "code": "007340"
+  },
+  {
     "stock": "한라캐스트",
     "count": 2,
     "reports": [
@@ -1668,26 +2070,6 @@
       "total": 55
     },
     "code": "125490"
-  },
-  {
-    "stock": "엔에프씨",
-    "count": 1,
-    "reports": [
-      {
-        "title": "화장품 ODM 고성장, 소재 턴어라운드 본격화",
-        "broker": "한국IR협의회",
-        "date": "26.09.04",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_794463000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 15,
-      "technical": 25,
-      "fundamental": 5,
-      "total": 55
-    },
-    "code": "265740"
   },
   {
     "stock": "SK텔레콤",
@@ -1732,50 +2114,6 @@
       "total": 50
     },
     "code": "017670"
-  },
-  {
-    "stock": "LG",
-    "count": 5,
-    "reports": [
-      {
-        "title": "전자계열사 실적 개선. 로봇사업 기대도 여전..",
-        "broker": "하나증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260814_company_137909000.pdf"
-      },
-      {
-        "title": "2Q26 Review : 오픈웨이트 AI 모델 개발사",
-        "broker": "한화투자증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260814_company_868176000.pdf"
-      },
-      {
-        "title": "지분법손익 개선과 자사주 전량 소각 이행 완..",
-        "broker": "대신증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260814_company_542868000.pdf"
-      },
-      {
-        "title": "제도로 뒷받침될 매력",
-        "broker": "미래에셋증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260814_company_530055000.pdf"
-      },
-      {
-        "title": "엔비디아가 LG를 고른 이유",
-        "broker": "대신증권",
-        "date": "26.08.21",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260821_company_35227000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 20,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 50
-    },
-    "code": "003550"
   },
   {
     "stock": "더블유게임즈",
@@ -1994,70 +2332,6 @@
     "code": "241710"
   },
   {
-    "stock": "오리온",
-    "count": 3,
-    "reports": [
-      {
-        "title": "견조한 성장 흐름",
-        "broker": "한화투자증권",
-        "date": "26.08.11",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260811_company_368805000.pdf"
-      },
-      {
-        "title": "경쟁 심화, 원가 부담은 아쉽지만 러시아는 ..",
-        "broker": "교보증권",
-        "date": "26.08.11",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260811_company_986263000.pdf"
-      },
-      {
-        "title": "전 지역 성장으로 증명하다",
-        "broker": "신한투자증권",
-        "date": "26.08.11",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 20,
-      "momentum": 0,
-      "technical": 25,
-      "fundamental": 5,
-      "total": 50
-    },
-    "code": "271560"
-  },
-  {
-    "stock": "비에이치",
-    "count": 3,
-    "reports": [
-      {
-        "title": "이익 성장은 변화 없다! 삼성의 로봇 사업에 ..",
-        "broker": "대신증권",
-        "date": "26.08.11",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260811_company_77075000.pdf"
-      },
-      {
-        "title": "폴더블폰(애플,삼성) 그리고 로봇에서 신성장..",
-        "broker": "대신증권",
-        "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260901_company_308326000.pdf"
-      },
-      {
-        "title": "폴더블과 로봇의 두축",
-        "broker": "미래에셋증권",
-        "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260901_company_606947000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 20,
-      "momentum": 25,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 50
-    },
-    "code": "090460"
-  },
-  {
     "stock": "헥토이노베이션",
     "count": 3,
     "reports": [
@@ -2088,70 +2362,6 @@
       "total": 50
     },
     "code": "214180"
-  },
-  {
-    "stock": "한화에어로스페이스",
-    "count": 3,
-    "reports": [
-      {
-        "title": "NDR 후기: 상반기보다 하반기, 3분기보다 4분..",
-        "broker": "하나증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260810_company_141836000.pdf"
-      },
-      {
-        "title": "K9MH의 미국 진출, 단일 수주 이상의 의미",
-        "broker": "DS투자증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260824_company_957228000.pdf"
-      },
-      {
-        "title": "스페인 사업까지 수주, 강화되는 현지화 경쟁..",
-        "broker": "한국투자증권",
-        "date": "26.09.01",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 20,
-      "momentum": 25,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 50
-    },
-    "code": "012450"
-  },
-  {
-    "stock": "비에이치아이",
-    "count": 3,
-    "reports": [
-      {
-        "title": "수주 가시성 확대 및 올해 사상 최대 실적 가..",
-        "broker": "iM증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260810_company_934579000.pdf"
-      },
-      {
-        "title": "어닝 서프라이즈, 하반기도 순항",
-        "broker": "IBK투자증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260818_company_577849000.pdf"
-      },
-      {
-        "title": "성장 가시성에 수익성까지",
-        "broker": "신한투자증권",
-        "date": "26.08.19",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 20,
-      "momentum": 25,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 50
-    },
-    "code": "083650"
   },
   {
     "stock": "롯데관광개발",
@@ -2186,6 +2396,110 @@
     "code": "032350"
   },
   {
+    "stock": "신세계인터내셔날",
+    "count": 2,
+    "reports": [
+      {
+        "title": "2Q26 흑자전환! 하반기 F/W 모멘텀 기대",
+        "broker": "유안타증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260813_company_808165000.pdf"
+      },
+      {
+        "title": "2Q26 Review : 우려와 다른 어조",
+        "broker": "한화투자증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260812_company_116578000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 50
+    },
+    "code": "031430"
+  },
+  {
+    "stock": "GST",
+    "count": 2,
+    "reports": [
+      {
+        "title": "10여년 만에 족쇄를 풀다",
+        "broker": "IBK투자증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260810_company_444207000.pdf"
+      },
+      {
+        "title": "반도체 투자 확대로 사상 최대 실적 및 칠러 ..",
+        "broker": "iM증권",
+        "date": "26.09.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260907_company_544387000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 50
+    },
+    "code": "083450"
+  },
+  {
+    "stock": "티씨케이",
+    "count": 2,
+    "reports": [
+      {
+        "title": "생산능력을 대폭 상회한 수주 잔고",
+        "broker": "신한투자증권",
+        "date": "26.08.18",
+        "pdf_url": ""
+      },
+      {
+        "title": "SiC 포커스링, 두 번째 성장기 진입",
+        "broker": "IBK투자증권",
+        "date": "26.09.03",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260903_company_624070000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 50
+    },
+    "code": "064760"
+  },
+  {
+    "stock": "한국토지신탁",
+    "count": 2,
+    "reports": [
+      {
+        "title": "두드러지는 도시정비 수주",
+        "broker": "한화투자증권",
+        "date": "26.09.01",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260901_company_246585000.pdf"
+      },
+      {
+        "title": "상반기 보다 나을 하반기를 기대",
+        "broker": "신한투자증권",
+        "date": "26.09.02",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 50
+    },
+    "code": "034830"
+  },
+  {
     "stock": "에스원",
     "count": 1,
     "reports": [
@@ -2204,6 +2518,46 @@
       "total": 50
     },
     "code": "012750"
+  },
+  {
+    "stock": "SFA",
+    "count": 1,
+    "reports": [
+      {
+        "title": "완전 무인화를 선도하는 AI 자율제조 로보틱..",
+        "broker": "한국IR협의회",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260818_company_572470000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 10,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 50
+    },
+    "code": "056190"
+  },
+  {
+    "stock": "올릭스",
+    "count": 1,
+    "reports": [
+      {
+        "title": "메마른 바이오 시장의 OASIS",
+        "broker": "한국IR협의회",
+        "date": "26.08.19",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260819_company_783007000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 10,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 50
+    },
+    "code": "226950"
   },
   {
     "stock": "매드업",
@@ -2390,6 +2744,68 @@
     "code": "007070"
   },
   {
+    "stock": "BGF리테일",
+    "count": 8,
+    "reports": [
+      {
+        "title": "매출 성장과 영업 레버리지 효과 동시 경험 ..",
+        "broker": "삼성증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/78/20260812_company_383198000.pdf"
+      },
+      {
+        "title": "2Q26 Review: 일회성 비용에도 역대 최대 실..",
+        "broker": "유진투자증권",
+        "date": "26.08.11",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260811_company_429021000.pdf"
+      },
+      {
+        "title": "2Q26 Review : 비운의 천재",
+        "broker": "한화투자증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260807_company_215517000.pdf"
+      },
+      {
+        "title": "확대되는 외국인 인바운드 효과",
+        "broker": "하나증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260807_company_205297000.pdf"
+      },
+      {
+        "title": "극성수기가 길어지고 외국인 매출이 가파르게..",
+        "broker": "대신증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_157983000.pdf"
+      },
+      {
+        "title": "좋다라고 밖에 표현할 수 없는 실적!",
+        "broker": "IBK투자증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260807_company_107782000.pdf"
+      },
+      {
+        "title": "편의점으로 바통 터치",
+        "broker": "신한투자증권",
+        "date": "26.08.07",
+        "pdf_url": ""
+      },
+      {
+        "title": "2분기도 시장 기대치 상회",
+        "broker": "키움증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260807_company_790437000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 25,
+      "momentum": 15,
+      "technical": 0,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "282330"
+  },
+  {
     "stock": "현대해상",
     "count": 8,
     "reports": [
@@ -2570,142 +2986,104 @@
     "code": "214450"
   },
   {
-    "stock": "미래에셋증권",
-    "count": 6,
+    "stock": "현대차",
+    "count": 7,
     "reports": [
       {
-        "title": "2Q26 Review: 2026년 수익구조 고도화의 시작",
-        "broker": "교보증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260813_company_763260000.pdf"
+        "title": "2026 CID - 권역별 현지화와 사업 효율화에 ..",
+        "broker": "한화투자증권",
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260827_company_236315000.pdf"
       },
       {
-        "title": "2026년 2분기 컨퍼런스 콜 요약",
+        "title": "2026년 CEO Investor Day 핵심내용",
         "broker": "하나증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260813_company_268654000.pdf"
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260827_company_79656000.pdf"
       },
       {
-        "title": "우주에 묻혀버린 양호한 실적",
-        "broker": "유안타증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260813_company_663165000.pdf"
-      },
-      {
-        "title": "2Q26 Re: 단기 실적 변동성과 장기 확고한 방..",
-        "broker": "키움증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260813_company_368776000.pdf"
-      },
-      {
-        "title": "사상 최대 실적",
-        "broker": "신한투자증권",
-        "date": "26.08.13",
-        "pdf_url": ""
-      },
-      {
-        "title": "2Q26 Review: 역대급 실적. 하반기 변동성 관..",
-        "broker": "SK증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260813_company_264239000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 15,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 45
-    },
-    "code": "006800"
-  },
-  {
-    "stock": "SK오션플랜트",
-    "count": 5,
-    "reports": [
-      {
-        "title": "2Q26 Review: 골짜기 앞에서 확인한 수주 체..",
-        "broker": "교보증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260813_company_393262000.pdf"
-      },
-      {
-        "title": "하반기 매출 감소 예상. 다만 전방 시장은 확..",
-        "broker": "하나증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260813_company_324801000.pdf"
-      },
-      {
-        "title": "당분간 가시밭길",
-        "broker": "DS투자증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260813_company_940973000.pdf"
-      },
-      {
-        "title": "단기 실적은 부진하나 전방 시장은 확대",
-        "broker": "유진투자증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260813_company_928962000.pdf"
-      },
-      {
-        "title": "낮아진 눈높이에서 다시 시작",
+        "title": "26년 CID, 25년 대비 주요 변화 내용",
         "broker": "미래에셋증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260813_company_156975000.pdf"
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260827_company_715999000.pdf"
+      },
+      {
+        "title": "CID 2026 Review: 자동차라는 본질에 집중",
+        "broker": "iM증권",
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260827_company_286526000.pdf"
+      },
+      {
+        "title": "2026년 CID 리뷰 & QnA 요약",
+        "broker": "대신증권",
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260827_company_599502000.pdf"
+      },
+      {
+        "title": "2026 CEO Investor Day Takeaways",
+        "broker": "키움증권",
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260827_company_837946000.pdf"
+      },
+      {
+        "title": "CID 2026: It’s a great time to be at Hyun..",
+        "broker": "현대차증권",
+        "date": "26.08.28",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/38/20260828_company_14166000.pdf"
       }
     ],
     "scores": {
       "attention": 25,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 45
     },
-    "code": "100090"
+    "code": "005380"
   },
   {
-    "stock": "메리츠금융지주",
+    "stock": "한화손해보험",
     "count": 5,
     "reports": [
       {
-        "title": "장기 투자를 선호한다면",
+        "title": "2Q26 Re - 계리가정 반영에도 견조한 CSM",
+        "broker": "하나증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260813_company_600781000.pdf"
+      },
+      {
+        "title": "2Q26 Review: 2026년에도 여성 특화 보험은 ..",
+        "broker": "교보증권",
+        "date": "26.08.13",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260813_company_168063000.pdf"
+      },
+      {
+        "title": "27F PER 1.8x, 배당만 남았다",
         "broker": "신한투자증권",
         "date": "26.08.13",
         "pdf_url": ""
       },
       {
-        "title": "다른 선택지가 애매할 때 부각되는 펀더멘털",
+        "title": "예실차 개선세 긍정적이나 제도 이슈 상존",
         "broker": "iM증권",
         "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260813_company_710906000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260813_company_400512000.pdf"
       },
       {
-        "title": "2Q26 Re: 당연해진 실적 서프라이즈",
+        "title": "2Q26 Re: 보험손익 회복 기조 지속",
         "broker": "키움증권",
         "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260813_company_421385000.pdf"
-      },
-      {
-        "title": "화재가 견인한 2분기 서프",
-        "broker": "대신증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260814_company_539604000.pdf"
-      },
-      {
-        "title": "차별화된 성장세 지속",
-        "broker": "미래에셋증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260814_company_385652000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260813_company_109909000.pdf"
       }
     ],
     "scores": {
       "attention": 25,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 45
     },
-    "code": "138040"
+    "code": "000370"
   },
   {
     "stock": "금호석유화학",
@@ -2796,50 +3174,6 @@
     "code": "011170"
   },
   {
-    "stock": "알테오젠",
-    "count": 5,
-    "reports": [
-      {
-        "title": "QLEX 순항, 확장되는 플랫폼",
-        "broker": "대신증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_178054000.pdf"
-      },
-      {
-        "title": "QLEX 순항, 확장되는 플랫폼",
-        "broker": "대신증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260814_company_264964000.pdf"
-      },
-      {
-        "title": "암 백신 또한 키트루다SC가 메인",
-        "broker": "신한투자증권",
-        "date": "26.08.24",
-        "pdf_url": ""
-      },
-      {
-        "title": "반복되는 기술수출, ALT-B4 가치 재평가",
-        "broker": "대신증권",
-        "date": "26.09.03",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260903_company_359168000.pdf"
-      },
-      {
-        "title": "세계 최초 유전자 치료제 SC, 서프라이즈",
-        "broker": "신한투자증권",
-        "date": "26.09.03",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 15,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 45
-    },
-    "code": "196170"
-  },
-  {
     "stock": "롯데에너지머티리얼즈",
     "count": 5,
     "reports": [
@@ -2928,56 +3262,62 @@
     "code": "483650"
   },
   {
-    "stock": "LG전자",
-    "count": 2,
+    "stock": "NHN",
+    "count": 3,
     "reports": [
       {
-        "title": "시황을 사는 주식에서 수주를 사는 주식으로",
-        "broker": "iM증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260813_company_375435000.pdf"
+        "title": "호쾌한 성장과 함께 다음 스테이지 계획도 발..",
+        "broker": "교보증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260812_company_532627000.pdf"
       },
       {
-        "title": "AIDC, 10월 2.5조원의 수주 전망",
-        "broker": "교보증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260818_company_43313000.pdf"
+        "title": "AI 팩토리로 고성장 진입",
+        "broker": "신한투자증권",
+        "date": "26.08.12",
+        "pdf_url": ""
+      },
+      {
+        "title": "이미 시작된 수요 폭증을 벌써 대응하고 있는..",
+        "broker": "한화투자증권",
+        "date": "26.08.11",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260811_company_147255000.pdf"
       }
     ],
     "scores": {
-      "attention": 15,
-      "momentum": 25,
-      "technical": 0,
+      "attention": 20,
+      "momentum": 10,
+      "technical": 10,
       "fundamental": 5,
       "total": 45
     },
-    "code": "066570"
+    "code": "181710"
   },
   {
-    "stock": "현대백화점",
+    "stock": "해성디에스",
     "count": 2,
     "reports": [
       {
-        "title": "2Q26 Review: 과도한 하락 vs. 긍정적 하반기",
-        "broker": "유진투자증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260812_company_569126000.pdf"
+        "title": "AI 데이터센터가 놓은 성장 카드",
+        "broker": "유안타증권",
+        "date": "26.08.11",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260811_company_444884000.pdf"
       },
       {
-        "title": "2Q26 Review: 견조한 본업, 바닥을 다진 지누..",
-        "broker": "교보증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260810_company_995153000.pdf"
+        "title": "반등이 보인다",
+        "broker": "신한투자증권",
+        "date": "26.08.11",
+        "pdf_url": ""
       }
     ],
     "scores": {
       "attention": 15,
-      "momentum": 0,
-      "technical": 25,
+      "momentum": 10,
+      "technical": 15,
       "fundamental": 5,
       "total": 45
     },
-    "code": "069960"
+    "code": "195870"
   },
   {
     "stock": "파라다이스",
@@ -3006,32 +3346,6 @@
     "code": "034230"
   },
   {
-    "stock": "포스코DX",
-    "count": 2,
-    "reports": [
-      {
-        "title": "수주는 회복됐지만 Physical AI는 아직 옵션",
-        "broker": "대신증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_460390000.pdf"
-      },
-      {
-        "title": "쇳물보다 먼저 달아오른 수주",
-        "broker": "신한투자증권",
-        "date": "26.08.27",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 25,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 45
-    },
-    "code": "022100"
-  },
-  {
     "stock": "디아이",
     "count": 2,
     "reports": [
@@ -3056,32 +3370,6 @@
       "total": 45
     },
     "code": "003160"
-  },
-  {
-    "stock": "NHN KCP",
-    "count": 2,
-    "reports": [
-      {
-        "title": "Golden Triangle: 최대 실적·최저 밸류·스..",
-        "broker": "IBK투자증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260810_company_278849000.pdf"
-      },
-      {
-        "title": "NDR 후기: PG를 넘어 AI 결제 인프라로",
-        "broker": "신한투자증권",
-        "date": "26.08.21",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 25,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 45
-    },
-    "code": "060250"
   },
   {
     "stock": "테스",
@@ -3110,6 +3398,32 @@
     "code": "095610"
   },
   {
+    "stock": "SJG세종",
+    "count": 2,
+    "reports": [
+      {
+        "title": "2Q26 Review: 하반기 신차 출시 확대 수혜 기..",
+        "broker": "유진투자증권",
+        "date": "26.08.19",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260819_company_5407000.pdf"
+      },
+      {
+        "title": "P/E 2배 이하, 주가 재평가의 열쇠는 전동화 ..",
+        "broker": "하나증권",
+        "date": "26.09.02",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260902_company_229076000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "033530"
+  },
+  {
     "stock": "아모레퍼시픽",
     "count": 2,
     "reports": [
@@ -3136,6 +3450,166 @@
     "code": "090430"
   },
   {
+    "stock": "효성",
+    "count": 1,
+    "reports": [
+      {
+        "title": "서프라이즈, 그리고 걷히는 할인 요인",
+        "broker": "대신증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_631924000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "004800"
+  },
+  {
+    "stock": "씨젠",
+    "count": 1,
+    "reports": [
+      {
+        "title": "2연속 어닝 서프라이즈",
+        "broker": "미래에셋증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260810_company_664049000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "096530"
+  },
+  {
+    "stock": "엘티씨",
+    "count": 1,
+    "reports": [
+      {
+        "title": "2분기 연속 최대 실적 경신",
+        "broker": "신한투자증권",
+        "date": "26.08.14",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "170920"
+  },
+  {
+    "stock": "기가비스",
+    "count": 1,
+    "reports": [
+      {
+        "title": "예상보다 가파르게 증가하는 수주잔고",
+        "broker": "iM증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260818_company_845033000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "420770"
+  },
+  {
+    "stock": "후성",
+    "count": 1,
+    "reports": [
+      {
+        "title": "본업에 의한 어닝스 서프라이즈 첫 시현",
+        "broker": "유진투자증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260818_company_124658000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "093370"
+  },
+  {
+    "stock": "휴메딕스",
+    "count": 1,
+    "reports": [
+      {
+        "title": "리투오 성장 및 필러 회복으로 사상 최대 실..",
+        "broker": "iM증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260818_company_909209000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "200670"
+  },
+  {
+    "stock": "오이솔루션",
+    "count": 1,
+    "reports": [
+      {
+        "title": "실적 턴어라운드가 임박했습니다",
+        "broker": "하나증권",
+        "date": "26.08.20",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260820_company_675776000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "138080"
+  },
+  {
+    "stock": "링크솔루션",
+    "count": 1,
+    "reports": [
+      {
+        "title": "NDR 후기: 첫 파운드리 수주",
+        "broker": "신한투자증권",
+        "date": "26.08.26",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "474650"
+  },
+  {
     "stock": "SFA반도체",
     "count": 1,
     "reports": [
@@ -3154,6 +3628,26 @@
       "total": 45
     },
     "code": "036540"
+  },
+  {
+    "stock": "엔에프씨",
+    "count": 1,
+    "reports": [
+      {
+        "title": "화장품 ODM 고성장, 소재 턴어라운드 본격화",
+        "broker": "한국IR협의회",
+        "date": "26.09.04",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_794463000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 15,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 45
+    },
+    "code": "265740"
   },
   {
     "stock": "SK하이닉스",
@@ -3244,36 +3738,36 @@
     "code": "096770"
   },
   {
-    "stock": "일진전기",
+    "stock": "펄어비스",
     "count": 3,
     "reports": [
       {
-        "title": "서프라이즈 실적, 밸류에이션 매력 확대",
-        "broker": "유안타증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260812_company_587325000.pdf"
+        "title": "채널 믹스와 성과급으로 실적 부진",
+        "broker": "신한투자증권",
+        "date": "26.08.13",
+        "pdf_url": ""
       },
       {
-        "title": "가장 저평가된 전력기기 기업",
+        "title": "기나긴 터널의 초입",
         "broker": "미래에셋증권",
         "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260812_company_656752000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260812_company_513024000.pdf"
       },
       {
-        "title": "투자를 먼저 끝낸 회사의 수확기의 모습",
-        "broker": "SK증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260824_company_67255000.pdf"
+        "title": "판매량은 나쁘지 않았으나,",
+        "broker": "유진투자증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260812_company_629619000.pdf"
       }
     ],
     "scores": {
       "attention": 20,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 40
     },
-    "code": "103590"
+    "code": "263750"
   },
   {
     "stock": "서부T&D",
@@ -3306,38 +3800,6 @@
       "total": 40
     },
     "code": "006730"
-  },
-  {
-    "stock": "DN오토모티브",
-    "count": 3,
-    "reports": [
-      {
-        "title": "변화구에 지친 자들을 위한 묵직한 돌직구",
-        "broker": "키움증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260810_company_368521000.pdf"
-      },
-      {
-        "title": "서프라이즈는 2분기로 끝나지 않는다",
-        "broker": "하나증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260818_company_452591000.pdf"
-      },
-      {
-        "title": "NDR 후기: 흔들린 건 주가뿐",
-        "broker": "하나증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260824_company_878670000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 20,
-      "momentum": 15,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 40
-    },
-    "code": "007340"
   },
   {
     "stock": "인바디",
@@ -3566,6 +4028,26 @@
     "code": "009450"
   },
   {
+    "stock": "오스코텍",
+    "count": 1,
+    "reports": [
+      {
+        "title": "줄줄이 이어지는 기술이전, 계속 하락하는 주..",
+        "broker": "IBK투자증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260813_company_299106000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "039200"
+  },
+  {
     "stock": "디어유",
     "count": 1,
     "reports": [
@@ -3626,26 +4108,6 @@
     "code": "0126Z0"
   },
   {
-    "stock": "교촌에프앤비",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2Q26P Review: 해외 사업은 여전히 성장 중",
-        "broker": "유진투자증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260810_company_191945000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 25,
-      "fundamental": 5,
-      "total": 40
-    },
-    "code": "339770"
-  },
-  {
     "stock": "카카오뱅크",
     "count": 1,
     "reports": [
@@ -3664,6 +4126,26 @@
       "total": 40
     },
     "code": "323410"
+  },
+  {
+    "stock": "노타",
+    "count": 1,
+    "reports": [
+      {
+        "title": "AI 경량화·최적화 구현 기업",
+        "broker": "한국IR협의회",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260807_company_591141000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 10,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "486990"
   },
   {
     "stock": "웹젠",
@@ -3686,6 +4168,26 @@
     "code": "069080"
   },
   {
+    "stock": "옵트론텍",
+    "count": 1,
+    "reports": [
+      {
+        "title": "모바일 광학부품 기반 전장·방산·로보틱스..",
+        "broker": "서울평가정보",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260807_company_880453000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "082210"
+  },
+  {
     "stock": "덴티움",
     "count": 1,
     "reports": [
@@ -3704,26 +4206,6 @@
       "total": 40
     },
     "code": "145720"
-  },
-  {
-    "stock": "하이트진로",
-    "count": 1,
-    "reports": [
-      {
-        "title": "비용 절감은 우수, 판매량 회복은 과제",
-        "broker": "신한투자증권",
-        "date": "26.08.14",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 25,
-      "fundamental": 5,
-      "total": 40
-    },
-    "code": "000080"
   },
   {
     "stock": "한국공항",
@@ -3764,6 +4246,26 @@
       "total": 40
     },
     "code": "307950"
+  },
+  {
+    "stock": "피에이치에이",
+    "count": 1,
+    "reports": [
+      {
+        "title": "미국 법인의 고성장에 주목할 때",
+        "broker": "하나증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260818_company_370358000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "043370"
   },
   {
     "stock": "SBS",
@@ -3906,14 +4408,14 @@
     "code": "340570"
   },
   {
-    "stock": "올릭스",
+    "stock": "에코프로",
     "count": 1,
     "reports": [
       {
-        "title": "메마른 바이오 시장의 OASIS",
+        "title": "2차전지 글로벌 밸류체인을 구축한 사업지주..",
         "broker": "한국IR협의회",
         "date": "26.08.19",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260819_company_783007000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260819_company_401373000.pdf"
       }
     ],
     "scores": {
@@ -3923,7 +4425,7 @@
       "fundamental": 5,
       "total": 40
     },
-    "code": "226950"
+    "code": "086520"
   },
   {
     "stock": "선익시스템",
@@ -3986,6 +4488,26 @@
     "code": "013990"
   },
   {
+    "stock": "고영",
+    "count": 1,
+    "reports": [
+      {
+        "title": "AI 혁명의 3D Frontier",
+        "broker": "IBK투자증권",
+        "date": "26.08.20",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260820_company_422486000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 10,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "098460"
+  },
+  {
     "stock": "케이엠더블유",
     "count": 1,
     "reports": [
@@ -4004,6 +4526,26 @@
       "total": 40
     },
     "code": "032500"
+  },
+  {
+    "stock": "슈프리마",
+    "count": 1,
+    "reports": [
+      {
+        "title": "떨어지지 않는 성장 요인",
+        "broker": "유안타증권",
+        "date": "26.08.21",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260821_company_434425000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "236200"
   },
   {
     "stock": "멀티캠퍼스",
@@ -4066,6 +4608,26 @@
     "code": "452430"
   },
   {
+    "stock": "에스비비테크",
+    "count": 1,
+    "reports": [
+      {
+        "title": "하모닉 감속기 국산화 1호 기업",
+        "broker": "미래에셋증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260824_company_31462000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "389500"
+  },
+  {
     "stock": "에스피지",
     "count": 1,
     "reports": [
@@ -4124,6 +4686,26 @@
       "total": 40
     },
     "code": "137080"
+  },
+  {
+    "stock": "디에스엠",
+    "count": 1,
+    "reports": [
+      {
+        "title": "자동차부품 양산 기반 위에 체험형 콘텐츠와 ..",
+        "broker": "서울평가정보",
+        "date": "26.08.28",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260828_company_812052000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "104040"
   },
   {
     "stock": "삼천리",
@@ -4226,6 +4808,66 @@
     "code": "068760"
   },
   {
+    "stock": "대원미디어",
+    "count": 1,
+    "reports": [
+      {
+        "title": "반다이남코는 신고가",
+        "broker": "신한투자증권",
+        "date": "26.09.03",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "048910"
+  },
+  {
+    "stock": "로체시스템즈",
+    "count": 1,
+    "reports": [
+      {
+        "title": "저평가된 반도체 투자 확대 수혜주",
+        "broker": "키움증권",
+        "date": "26.09.03",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260903_company_153296000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "071280"
+  },
+  {
+    "stock": "씨앤씨인터내셔널",
+    "count": 1,
+    "reports": [
+      {
+        "title": "탐방노트: 수익성 정상화 진행 중",
+        "broker": "IBK투자증권",
+        "date": "26.09.03",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260903_company_234898000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 25,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "352480"
+  },
+  {
     "stock": "노머스",
     "count": 1,
     "reports": [
@@ -4266,6 +4908,26 @@
     "code": "314140"
   },
   {
+    "stock": "온코닉테라퓨틱스",
+    "count": 1,
+    "reports": [
+      {
+        "title": "[AI] P-CAB 신약과 표적항암제를 개발하는 기..",
+        "broker": "한국IR협의회",
+        "date": "26.09.04",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_295692000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 10,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "476060"
+  },
+  {
     "stock": "잉글우드랩",
     "count": 1,
     "reports": [
@@ -4286,24 +4948,44 @@
     "code": "950140"
   },
   {
-    "stock": "에이피알",
+    "stock": "퓨쳐켐",
     "count": 1,
     "reports": [
       {
-        "title": "상대적인 밸류에이션 매력도 상승",
-        "broker": "SK증권",
-        "date": "26.09.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260907_company_508507000.pdf"
+        "title": "[AI] 전립선암 표적 방사성의약품 개발기업",
+        "broker": "한국IR협의회",
+        "date": "26.09.04",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_312631000.pdf"
       }
     ],
     "scores": {
       "attention": 10,
-      "momentum": 0,
-      "technical": 25,
+      "momentum": 10,
+      "technical": 15,
       "fundamental": 5,
       "total": 40
     },
-    "code": "278470"
+    "code": "220100"
+  },
+  {
+    "stock": "피아이이",
+    "count": 1,
+    "reports": [
+      {
+        "title": "[AI] AI 비전 검사와 제조 지능화 솔루션 기..",
+        "broker": "한국IR협의회",
+        "date": "26.09.04",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_643693000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 10,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 40
+    },
+    "code": "452450"
   },
   {
     "stock": "디케이티",
@@ -4402,36 +5084,36 @@
     "code": "034730"
   },
   {
-    "stock": "NHN",
+    "stock": "오리온",
     "count": 3,
     "reports": [
       {
-        "title": "호쾌한 성장과 함께 다음 스테이지 계획도 발..",
-        "broker": "교보증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260812_company_532627000.pdf"
-      },
-      {
-        "title": "AI 팩토리로 고성장 진입",
-        "broker": "신한투자증권",
-        "date": "26.08.12",
-        "pdf_url": ""
-      },
-      {
-        "title": "이미 시작된 수요 폭증을 벌써 대응하고 있는..",
+        "title": "견조한 성장 흐름",
         "broker": "한화투자증권",
         "date": "26.08.11",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260811_company_147255000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260811_company_368805000.pdf"
+      },
+      {
+        "title": "경쟁 심화, 원가 부담은 아쉽지만 러시아는 ..",
+        "broker": "교보증권",
+        "date": "26.08.11",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260811_company_986263000.pdf"
+      },
+      {
+        "title": "전 지역 성장으로 증명하다",
+        "broker": "신한투자증권",
+        "date": "26.08.11",
+        "pdf_url": ""
       }
     ],
     "scores": {
       "attention": 20,
-      "momentum": 10,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 10,
       "fundamental": 5,
       "total": 35
     },
-    "code": "181710"
+    "code": "271560"
   },
   {
     "stock": "코오롱인더",
@@ -4466,30 +5148,82 @@
     "code": "120110"
   },
   {
-    "stock": "신세계인터내셔날",
+    "stock": "한온시스템",
     "count": 2,
     "reports": [
       {
-        "title": "2Q26 흑자전환! 하반기 F/W 모멘텀 기대",
-        "broker": "유안타증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260813_company_808165000.pdf"
+        "title": "이익 개선, 현금 창출 경로 지속",
+        "broker": "DS투자증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260812_company_858145000.pdf"
       },
       {
-        "title": "2Q26 Review : 우려와 다른 어조",
-        "broker": "한화투자증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260812_company_116578000.pdf"
+        "title": "조금씩 달라지고 있는 이익의 퀄리티",
+        "broker": "신한투자증권",
+        "date": "26.08.28",
+        "pdf_url": ""
       }
     ],
     "scores": {
       "attention": 15,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 35
     },
-    "code": "031430"
+    "code": "018880"
+  },
+  {
+    "stock": "바텍",
+    "count": 2,
+    "reports": [
+      {
+        "title": "미국서 보너스 받고, 유럽으로",
+        "broker": "대신증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260812_company_484017000.pdf"
+      },
+      {
+        "title": "2Q26P Review: 14분기만에 OPM 20%대 회복",
+        "broker": "유진투자증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260812_company_396855000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 35
+    },
+    "code": "043150"
+  },
+  {
+    "stock": "SAMG엔터",
+    "count": 2,
+    "reports": [
+      {
+        "title": "<사랑의 하츄핑> 벌써 40만 관객!",
+        "broker": "신한투자증권",
+        "date": "26.08.11",
+        "pdf_url": ""
+      },
+      {
+        "title": "상반기에 씨 뿌렸으니 하반기에 수확하자",
+        "broker": "유진투자증권",
+        "date": "26.08.19",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260819_company_363484000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 35
+    },
+    "code": "419530"
   },
   {
     "stock": "코웨이",
@@ -4516,32 +5250,6 @@
       "total": 35
     },
     "code": "021240"
-  },
-  {
-    "stock": "GST",
-    "count": 2,
-    "reports": [
-      {
-        "title": "10여년 만에 족쇄를 풀다",
-        "broker": "IBK투자증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260810_company_444207000.pdf"
-      },
-      {
-        "title": "반도체 투자 확대로 사상 최대 실적 및 칠러 ..",
-        "broker": "iM증권",
-        "date": "26.09.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260907_company_544387000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 15,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 35
-    },
-    "code": "083450"
   },
   {
     "stock": "영원무역",
@@ -4622,6 +5330,32 @@
     "code": "033500"
   },
   {
+    "stock": "서진시스템",
+    "count": 2,
+    "reports": [
+      {
+        "title": "조금씩, 그러나 확실히 나아지고 있다",
+        "broker": "유진투자증권",
+        "date": "26.08.18",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260818_company_369624000.pdf"
+      },
+      {
+        "title": "악재 충분히 반영한 주가, 다시 내일을 논하..",
+        "broker": "SK증권",
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260827_company_754814000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 15,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 35
+    },
+    "code": "178320"
+  },
+  {
     "stock": "코윈테크",
     "count": 2,
     "reports": [
@@ -4648,46 +5382,20 @@
     "code": null
   },
   {
-    "stock": "티씨케이",
+    "stock": "대한해운",
     "count": 2,
     "reports": [
       {
-        "title": "생산능력을 대폭 상회한 수주 잔고",
+        "title": "내 갈 길을 간다",
         "broker": "신한투자증권",
         "date": "26.08.18",
         "pdf_url": ""
       },
       {
-        "title": "SiC 포커스링, 두 번째 성장기 진입",
-        "broker": "IBK투자증권",
-        "date": "26.09.03",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260903_company_624070000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 15,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 35
-    },
-    "code": "064760"
-  },
-  {
-    "stock": "SJG세종",
-    "count": 2,
-    "reports": [
-      {
-        "title": "2Q26 Review: 하반기 신차 출시 확대 수혜 기..",
-        "broker": "유진투자증권",
-        "date": "26.08.19",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260819_company_5407000.pdf"
-      },
-      {
-        "title": "P/E 2배 이하, 주가 재평가의 열쇠는 전동화 ..",
+        "title": "Next Step을 기대하며",
         "broker": "하나증권",
-        "date": "26.09.02",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260902_company_229076000.pdf"
+        "date": "26.08.20",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260820_company_573916000.pdf"
       }
     ],
     "scores": {
@@ -4697,7 +5405,7 @@
       "fundamental": 5,
       "total": 35
     },
-    "code": "033530"
+    "code": "005880"
   },
   {
     "stock": "SCL사이언스",
@@ -4726,30 +5434,30 @@
     "code": "246960"
   },
   {
-    "stock": "한국토지신탁",
+    "stock": "비츠로셀",
     "count": 2,
     "reports": [
       {
-        "title": "두드러지는 도시정비 수주",
-        "broker": "한화투자증권",
+        "title": "배터리 보관창고 화재 발생 Comment",
+        "broker": "IBK투자증권",
         "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260901_company_246585000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260901_company_196665000.pdf"
       },
       {
-        "title": "상반기 보다 나을 하반기를 기대",
+        "title": "Never Stop Rising",
         "broker": "신한투자증권",
-        "date": "26.09.02",
+        "date": "26.09.04",
         "pdf_url": ""
       }
     ],
     "scores": {
       "attention": 15,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 35
     },
-    "code": "034830"
+    "code": "082920"
   },
   {
     "stock": "삼성생명",
@@ -5038,62 +5746,6 @@
     "code": "006260"
   },
   {
-    "stock": "현대차",
-    "count": 7,
-    "reports": [
-      {
-        "title": "2026 CID - 권역별 현지화와 사업 효율화에 ..",
-        "broker": "한화투자증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/16/20260827_company_236315000.pdf"
-      },
-      {
-        "title": "2026년 CEO Investor Day 핵심내용",
-        "broker": "하나증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260827_company_79656000.pdf"
-      },
-      {
-        "title": "26년 CID, 25년 대비 주요 변화 내용",
-        "broker": "미래에셋증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260827_company_715999000.pdf"
-      },
-      {
-        "title": "CID 2026 Review: 자동차라는 본질에 집중",
-        "broker": "iM증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260827_company_286526000.pdf"
-      },
-      {
-        "title": "2026년 CID 리뷰 & QnA 요약",
-        "broker": "대신증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260827_company_599502000.pdf"
-      },
-      {
-        "title": "2026 CEO Investor Day Takeaways",
-        "broker": "키움증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260827_company_837946000.pdf"
-      },
-      {
-        "title": "CID 2026: It’s a great time to be at Hyun..",
-        "broker": "현대차증권",
-        "date": "26.08.28",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/38/20260828_company_14166000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 30
-    },
-    "code": "005380"
-  },
-  {
     "stock": "씨에스윈드",
     "count": 6,
     "reports": [
@@ -5192,50 +5844,6 @@
       "total": 30
     },
     "code": "023530"
-  },
-  {
-    "stock": "한화손해보험",
-    "count": 5,
-    "reports": [
-      {
-        "title": "2Q26 Re - 계리가정 반영에도 견조한 CSM",
-        "broker": "하나증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260813_company_600781000.pdf"
-      },
-      {
-        "title": "2Q26 Review: 2026년에도 여성 특화 보험은 ..",
-        "broker": "교보증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260813_company_168063000.pdf"
-      },
-      {
-        "title": "27F PER 1.8x, 배당만 남았다",
-        "broker": "신한투자증권",
-        "date": "26.08.13",
-        "pdf_url": ""
-      },
-      {
-        "title": "예실차 개선세 긍정적이나 제도 이슈 상존",
-        "broker": "iM증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260813_company_400512000.pdf"
-      },
-      {
-        "title": "2Q26 Re: 보험손익 회복 기조 지속",
-        "broker": "키움증권",
-        "date": "26.08.13",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260813_company_109909000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 25,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 30
-    },
-    "code": "000370"
   },
   {
     "stock": "한국전력",
@@ -5484,32 +6092,6 @@
     "code": "006360"
   },
   {
-    "stock": "해성디에스",
-    "count": 2,
-    "reports": [
-      {
-        "title": "AI 데이터센터가 놓은 성장 카드",
-        "broker": "유안타증권",
-        "date": "26.08.11",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260811_company_444884000.pdf"
-      },
-      {
-        "title": "반등이 보인다",
-        "broker": "신한투자증권",
-        "date": "26.08.11",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 30
-    },
-    "code": "195870"
-  },
-  {
     "stock": "SK네트웍스",
     "count": 2,
     "reports": [
@@ -5562,6 +6144,46 @@
     "code": "095570"
   },
   {
+    "stock": "원익QnC",
+    "count": 1,
+    "reports": [
+      {
+        "title": "다시 한번 성장 증명",
+        "broker": "신한투자증권",
+        "date": "26.08.13",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "074600"
+  },
+  {
+    "stock": "대신증권",
+    "count": 1,
+    "reports": [
+      {
+        "title": "2Q26 Review: 평가이익이 견인한 어닝 서프라..",
+        "broker": "SK증권",
+        "date": "26.08.12",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260812_company_303653000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "003540"
+  },
+  {
     "stock": "성광벤드",
     "count": 1,
     "reports": [
@@ -5582,14 +6204,14 @@
     "code": "014620"
   },
   {
-    "stock": "오스코텍",
+    "stock": "이녹스첨단소재",
     "count": 1,
     "reports": [
       {
-        "title": "줄줄이 이어지는 기술이전, 계속 하락하는 주..",
-        "broker": "IBK투자증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260813_company_299106000.pdf"
+        "title": "NDR 후기: TAM 확대 스토리 지속",
+        "broker": "신한투자증권",
+        "date": "26.08.11",
+        "pdf_url": ""
       }
     ],
     "scores": {
@@ -5599,47 +6221,67 @@
       "fundamental": 5,
       "total": 30
     },
-    "code": "039200"
+    "code": "272290"
   },
   {
-    "stock": "효성",
+    "stock": "에코프로비엠",
     "count": 1,
     "reports": [
       {
-        "title": "서프라이즈, 그리고 걷히는 할인 요인",
-        "broker": "대신증권",
+        "title": "[NDR 후기] 헝가리+니켈 내재화에 주목",
+        "broker": "유안타증권",
         "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260810_company_631924000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260810_company_2884000.pdf"
       }
     ],
     "scores": {
       "attention": 10,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 30
     },
-    "code": "004800"
+    "code": "247540"
   },
   {
-    "stock": "씨젠",
+    "stock": "포스코퓨처엠",
     "count": 1,
     "reports": [
       {
-        "title": "2연속 어닝 서프라이즈",
-        "broker": "미래에셋증권",
+        "title": "[NDR 후기] 2027년 가동률 회복 본격화",
+        "broker": "유안타증권",
         "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260810_company_664049000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260810_company_327295000.pdf"
       }
     ],
     "scores": {
       "attention": 10,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 30
     },
-    "code": "096530"
+    "code": "003670"
+  },
+  {
+    "stock": "큐라클",
+    "count": 1,
+    "reports": [
+      {
+        "title": "메멘토의 메모: 다음 L/O를 찾아라",
+        "broker": "신한투자증권",
+        "date": "26.08.10",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "365270"
   },
   {
     "stock": "삼표시멘트",
@@ -5660,6 +6302,26 @@
       "total": 30
     },
     "code": "038500"
+  },
+  {
+    "stock": "삼성증권",
+    "count": 1,
+    "reports": [
+      {
+        "title": "기록적인 Top-line, 그러나 비용으로 상쇄된 ..",
+        "broker": "대신증권",
+        "date": "26.08.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_521073000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "016360"
   },
   {
     "stock": "KT나스미디어",
@@ -5702,6 +6364,26 @@
     "code": "240810"
   },
   {
+    "stock": "아이에스동서",
+    "count": 1,
+    "reports": [
+      {
+        "title": "아쉬운 지식산업센터, 긍정적인 콘크리트",
+        "broker": "하나증권",
+        "date": "26.08.14",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260814_company_41037000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "010780"
+  },
+  {
     "stock": "태광",
     "count": 1,
     "reports": [
@@ -5720,26 +6402,6 @@
       "total": 30
     },
     "code": "023160"
-  },
-  {
-    "stock": "엘티씨",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2분기 연속 최대 실적 경신",
-        "broker": "신한투자증권",
-        "date": "26.08.14",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 15,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 30
-    },
-    "code": "170920"
   },
   {
     "stock": "삼익제약",
@@ -5782,64 +6444,64 @@
     "code": "064960"
   },
   {
-    "stock": "기가비스",
+    "stock": "노바렉스",
     "count": 1,
     "reports": [
       {
-        "title": "예상보다 가파르게 증가하는 수주잔고",
-        "broker": "iM증권",
+        "title": "K-웰니스 트렌드 유효. 장기적 시각이 필요한..",
+        "broker": "DS투자증권",
         "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260818_company_845033000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260818_company_49147000.pdf"
       }
     ],
     "scores": {
       "attention": 10,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 30
     },
-    "code": "420770"
+    "code": "194700"
   },
   {
-    "stock": "후성",
+    "stock": "미래에셋생명",
     "count": 1,
     "reports": [
       {
-        "title": "본업에 의한 어닝스 서프라이즈 첫 시현",
-        "broker": "유진투자증권",
+        "title": "변액, 성장 엔진이자 배당 제약 요인",
+        "broker": "신한투자증권",
         "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260818_company_124658000.pdf"
+        "pdf_url": ""
       }
     ],
     "scores": {
       "attention": 10,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 30
     },
-    "code": "093370"
+    "code": "085620"
   },
   {
-    "stock": "휴메딕스",
+    "stock": "와이지-원",
     "count": 1,
     "reports": [
       {
-        "title": "리투오 성장 및 필러 회복으로 사상 최대 실..",
-        "broker": "iM증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260818_company_909209000.pdf"
+        "title": "2Q 실적의 내재적 의미",
+        "broker": "유안타증권",
+        "date": "26.08.19",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260819_company_392048000.pdf"
       }
     ],
     "scores": {
       "attention": 10,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 30
     },
-    "code": "200670"
+    "code": "019210"
   },
   {
     "stock": "세보엠이씨",
@@ -5862,24 +6524,24 @@
     "code": "011560"
   },
   {
-    "stock": "오이솔루션",
+    "stock": "씨엠티엑스",
     "count": 1,
     "reports": [
       {
-        "title": "실적 턴어라운드가 임박했습니다",
-        "broker": "하나증권",
-        "date": "26.08.20",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260820_company_675776000.pdf"
+        "title": "2Q26P Review: 11분기 연속 매출 성장세 지속",
+        "broker": "유진투자증권",
+        "date": "26.08.21",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260821_company_739786000.pdf"
       }
     ],
     "scores": {
       "attention": 10,
-      "momentum": 15,
-      "technical": 0,
+      "momentum": 0,
+      "technical": 15,
       "fundamental": 5,
       "total": 30
     },
-    "code": "138080"
+    "code": "388210"
   },
   {
     "stock": "성일하이텍",
@@ -5902,26 +6564,6 @@
     "code": "365340"
   },
   {
-    "stock": "슈프리마",
-    "count": 1,
-    "reports": [
-      {
-        "title": "떨어지지 않는 성장 요인",
-        "broker": "유안타증권",
-        "date": "26.08.21",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260821_company_434425000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 15,
-      "fundamental": 5,
-      "total": 30
-    },
-    "code": "236200"
-  },
-  {
     "stock": "인텍플러스",
     "count": 1,
     "reports": [
@@ -5942,14 +6584,14 @@
     "code": "064290"
   },
   {
-    "stock": "에스비비테크",
+    "stock": "세아홀딩스",
     "count": 1,
     "reports": [
       {
-        "title": "하모닉 감속기 국산화 1호 기업",
-        "broker": "미래에셋증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260824_company_31462000.pdf"
+        "title": "나도 실적 성장주, 나도 주주환원에 진심!",
+        "broker": "신한투자증권",
+        "date": "26.08.21",
+        "pdf_url": ""
       }
     ],
     "scores": {
@@ -5959,7 +6601,107 @@
       "fundamental": 5,
       "total": 30
     },
-    "code": "389500"
+    "code": "058650"
+  },
+  {
+    "stock": "에치에프알",
+    "count": 1,
+    "reports": [
+      {
+        "title": "어차피 내년 실적은 개선될 수 밖에 없습니다",
+        "broker": "하나증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260824_company_524302000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "230240"
+  },
+  {
+    "stock": "하나기술",
+    "count": 1,
+    "reports": [
+      {
+        "title": "2Q26 Review: 하반기 인도 및 북미향 공급 기..",
+        "broker": "유진투자증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260824_company_516541000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "299030"
+  },
+  {
+    "stock": "HD현대일렉트릭",
+    "count": 1,
+    "reports": [
+      {
+        "title": "수익성은 유틸리티, 성장은 증설이 만든다",
+        "broker": "SK증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260824_company_28043000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "267260"
+  },
+  {
+    "stock": "디앤씨미디어",
+    "count": 1,
+    "reports": [
+      {
+        "title": "27~28년 돌아올 <나혼렙> 극장판",
+        "broker": "신한투자증권",
+        "date": "26.08.24",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "263720"
+  },
+  {
+    "stock": "카카오페이",
+    "count": 1,
+    "reports": [
+      {
+        "title": "프런티어 업체 제휴 요구",
+        "broker": "키움증권",
+        "date": "26.08.24",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260824_company_905420000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "377300"
   },
   {
     "stock": "액트로",
@@ -5982,26 +6724,6 @@
     "code": "290740"
   },
   {
-    "stock": "링크솔루션",
-    "count": 1,
-    "reports": [
-      {
-        "title": "NDR 후기: 첫 파운드리 수주",
-        "broker": "신한투자증권",
-        "date": "26.08.26",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 15,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 30
-    },
-    "code": "474650"
-  },
-  {
     "stock": "LG생활건강",
     "count": 1,
     "reports": [
@@ -6020,6 +6742,166 @@
       "total": 30
     },
     "code": "051900"
+  },
+  {
+    "stock": "코리아에프티",
+    "count": 1,
+    "reports": [
+      {
+        "title": "P/E 3.7배에 불과. 자기주식 취득까지 진행 ..",
+        "broker": "하나증권",
+        "date": "26.08.25",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260825_company_789914000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "123410"
+  },
+  {
+    "stock": "파크시스템스",
+    "count": 1,
+    "reports": [
+      {
+        "title": "외형 성장, 수익성 개선 동반될 하반기",
+        "broker": "신한투자증권",
+        "date": "26.08.25",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "140860"
+  },
+  {
+    "stock": "NH투자증권",
+    "count": 1,
+    "reports": [
+      {
+        "title": "업종 투심이 부진할 때 최선의 선택지",
+        "broker": "iM증권",
+        "date": "26.08.25",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260825_company_25846000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "005940"
+  },
+  {
+    "stock": "세미파이브",
+    "count": 1,
+    "reports": [
+      {
+        "title": "양산으로 증명되는 경쟁력",
+        "broker": "신한투자증권",
+        "date": "26.08.27",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "490470"
+  },
+  {
+    "stock": "천보",
+    "count": 1,
+    "reports": [
+      {
+        "title": "NDR 후기: 실적 바닥 통과 구간, 북미 OEM 서..",
+        "broker": "키움증권",
+        "date": "26.08.27",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260827_company_497301000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "278280"
+  },
+  {
+    "stock": "페스카로",
+    "count": 1,
+    "reports": [
+      {
+        "title": "자동차 보안 수직계열화 업체",
+        "broker": "한국IR협의회",
+        "date": "26.08.28",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260828_company_752834000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "0015S0"
+  },
+  {
+    "stock": "그래피",
+    "count": 1,
+    "reports": [
+      {
+        "title": "형상기억 소재에서 디지털 덴티스트리로 진화",
+        "broker": "한국IR협의회",
+        "date": "26.08.28",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260828_company_240139000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "318060"
+  },
+  {
+    "stock": "SNT에너지",
+    "count": 1,
+    "reports": [
+      {
+        "title": "중동 복구·재건 수혜 및 북미 LNG 프로젝트..",
+        "broker": "iM증권",
+        "date": "26.08.31",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260831_company_760313000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "100840"
   },
   {
     "stock": "데브시스터즈",
@@ -6042,6 +6924,46 @@
     "code": "194480"
   },
   {
+    "stock": "에이비엘바이오",
+    "count": 1,
+    "reports": [
+      {
+        "title": "Givastomig, 얼마나 효과가 있어야할까?",
+        "broker": "DS투자증권",
+        "date": "26.09.01",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260901_company_260206000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "298380"
+  },
+  {
+    "stock": "예스티",
+    "count": 1,
+    "reports": [
+      {
+        "title": "하반기부터 본격적 반도체 장비 실적 반영",
+        "broker": "유안타증권",
+        "date": "26.09.01",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260901_company_124279000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "122640"
+  },
+  {
     "stock": "솔브레인",
     "count": 1,
     "reports": [
@@ -6060,6 +6982,26 @@
       "total": 30
     },
     "code": "357780"
+  },
+  {
+    "stock": "피엔티",
+    "count": 1,
+    "reports": [
+      {
+        "title": "고객사 다변화. 소재 사업 방향성이 중요",
+        "broker": "미래에셋증권",
+        "date": "26.09.01",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260901_company_88334000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "137400"
   },
   {
     "stock": "팜스토리",
@@ -6082,14 +7024,14 @@
     "code": "027710"
   },
   {
-    "stock": "씨앤씨인터내셔널",
+    "stock": "신대양제지",
     "count": 1,
     "reports": [
       {
-        "title": "탐방노트: 수익성 정상화 진행 중",
-        "broker": "IBK투자증권",
-        "date": "26.09.03",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260903_company_234898000.pdf"
+        "title": "원지 전 지종 생산과 수직계열 공급망을 기반..",
+        "broker": "NICE평가정보",
+        "date": "26.09.04",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/69/20260904_company_479490000.pdf"
       }
     ],
     "scores": {
@@ -6099,7 +7041,67 @@
       "fundamental": 5,
       "total": 30
     },
-    "code": "352480"
+    "code": "016590"
+  },
+  {
+    "stock": "오름테라퓨틱",
+    "count": 1,
+    "reports": [
+      {
+        "title": "예상보다 빠른 임상 진입, 재평가 시점도 앞..",
+        "broker": "미래에셋증권",
+        "date": "26.09.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260907_company_884057000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "475830"
+  },
+  {
+    "stock": "에이피알",
+    "count": 1,
+    "reports": [
+      {
+        "title": "상대적인 밸류에이션 매력도 상승",
+        "broker": "SK증권",
+        "date": "26.09.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260907_company_508507000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "278470"
+  },
+  {
+    "stock": "바이오솔루션",
+    "count": 1,
+    "reports": [
+      {
+        "title": "연골재생치료, 이제 시작일지도 모른다",
+        "broker": "한국IR협의회",
+        "date": "26.09.07",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260907_company_510362000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 15,
+      "fundamental": 5,
+      "total": 30
+    },
+    "code": "086820"
   },
   {
     "stock": "클리오",
@@ -6414,38 +7416,6 @@
     "code": "417840"
   },
   {
-    "stock": "펄어비스",
-    "count": 3,
-    "reports": [
-      {
-        "title": "채널 믹스와 성과급으로 실적 부진",
-        "broker": "신한투자증권",
-        "date": "26.08.13",
-        "pdf_url": ""
-      },
-      {
-        "title": "기나긴 터널의 초입",
-        "broker": "미래에셋증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260812_company_513024000.pdf"
-      },
-      {
-        "title": "판매량은 나쁘지 않았으나,",
-        "broker": "유진투자증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260812_company_629619000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 20,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "263750"
-  },
-  {
     "stock": "LS에코에너지",
     "count": 3,
     "reports": [
@@ -6750,26 +7720,6 @@
     "code": "092870"
   },
   {
-    "stock": "노타",
-    "count": 1,
-    "reports": [
-      {
-        "title": "AI 경량화·최적화 구현 기업",
-        "broker": "한국IR협의회",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260807_company_591141000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "486990"
-  },
-  {
     "stock": "마키나락스",
     "count": 1,
     "reports": [
@@ -6788,6 +7738,26 @@
       "total": 25
     },
     "code": "477850"
+  },
+  {
+    "stock": "하이트진로",
+    "count": 1,
+    "reports": [
+      {
+        "title": "비용 절감은 우수, 판매량 회복은 과제",
+        "broker": "신한투자증권",
+        "date": "26.08.14",
+        "pdf_url": ""
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 10,
+      "fundamental": 5,
+      "total": 25
+    },
+    "code": "000080"
   },
   {
     "stock": "크라우드웍스",
@@ -6830,26 +7800,6 @@
     "code": "053580"
   },
   {
-    "stock": "SFA",
-    "count": 1,
-    "reports": [
-      {
-        "title": "완전 무인화를 선도하는 AI 자율제조 로보틱..",
-        "broker": "한국IR협의회",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260818_company_572470000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "056190"
-  },
-  {
     "stock": "인탑스",
     "count": 1,
     "reports": [
@@ -6868,66 +7818,6 @@
       "total": 25
     },
     "code": "049070"
-  },
-  {
-    "stock": "에코프로",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2차전지 글로벌 밸류체인을 구축한 사업지주..",
-        "broker": "한국IR협의회",
-        "date": "26.08.19",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260819_company_401373000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "086520"
-  },
-  {
-    "stock": "고영",
-    "count": 1,
-    "reports": [
-      {
-        "title": "AI 혁명의 3D Frontier",
-        "broker": "IBK투자증권",
-        "date": "26.08.20",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260820_company_422486000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "098460"
-  },
-  {
-    "stock": "디에스엠",
-    "count": 1,
-    "reports": [
-      {
-        "title": "자동차부품 양산 기반 위에 체험형 콘텐츠와 ..",
-        "broker": "서울평가정보",
-        "date": "26.08.28",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260828_company_812052000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 10,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "104040"
   },
   {
     "stock": "강원에너지",
@@ -6970,26 +7860,6 @@
     "code": "049830"
   },
   {
-    "stock": "온코닉테라퓨틱스",
-    "count": 1,
-    "reports": [
-      {
-        "title": "[AI] P-CAB 신약과 표적항암제를 개발하는 기..",
-        "broker": "한국IR협의회",
-        "date": "26.09.04",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_295692000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "476060"
-  },
-  {
     "stock": "웨이비스",
     "count": 1,
     "reports": [
@@ -7008,46 +7878,6 @@
       "total": 25
     },
     "code": "289930"
-  },
-  {
-    "stock": "퓨쳐켐",
-    "count": 1,
-    "reports": [
-      {
-        "title": "[AI] 전립선암 표적 방사성의약품 개발기업",
-        "broker": "한국IR협의회",
-        "date": "26.09.04",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_312631000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "220100"
-  },
-  {
-    "stock": "피아이이",
-    "count": 1,
-    "reports": [
-      {
-        "title": "[AI] AI 비전 검사와 제조 지능화 솔루션 기..",
-        "broker": "한국IR협의회",
-        "date": "26.09.04",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260904_company_643693000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 10,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 25
-    },
-    "code": "452450"
   },
   {
     "stock": "네오위즈",
@@ -7074,32 +7904,6 @@
       "total": 20
     },
     "code": "095660"
-  },
-  {
-    "stock": "한온시스템",
-    "count": 2,
-    "reports": [
-      {
-        "title": "이익 개선, 현금 창출 경로 지속",
-        "broker": "DS투자증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260812_company_858145000.pdf"
-      },
-      {
-        "title": "조금씩 달라지고 있는 이익의 퀄리티",
-        "broker": "신한투자증권",
-        "date": "26.08.28",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 20
-    },
-    "code": "018880"
   },
   {
     "stock": "GKL",
@@ -7154,20 +7958,20 @@
     "code": "006400"
   },
   {
-    "stock": "바텍",
+    "stock": "현대백화점",
     "count": 2,
     "reports": [
       {
-        "title": "미국서 보너스 받고, 유럽으로",
-        "broker": "대신증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260812_company_484017000.pdf"
-      },
-      {
-        "title": "2Q26P Review: 14분기만에 OPM 20%대 회복",
+        "title": "2Q26 Review: 과도한 하락 vs. 긍정적 하반기",
         "broker": "유진투자증권",
         "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260812_company_396855000.pdf"
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260812_company_569126000.pdf"
+      },
+      {
+        "title": "2Q26 Review: 견조한 본업, 바닥을 다진 지누..",
+        "broker": "교보증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20260810_company_995153000.pdf"
       }
     ],
     "scores": {
@@ -7177,7 +7981,7 @@
       "fundamental": 5,
       "total": 20
     },
-    "code": "043150"
+    "code": "069960"
   },
   {
     "stock": "제이앤티씨",
@@ -7204,32 +8008,6 @@
       "total": 20
     },
     "code": "204270"
-  },
-  {
-    "stock": "SAMG엔터",
-    "count": 2,
-    "reports": [
-      {
-        "title": "<사랑의 하츄핑> 벌써 40만 관객!",
-        "broker": "신한투자증권",
-        "date": "26.08.11",
-        "pdf_url": ""
-      },
-      {
-        "title": "상반기에 씨 뿌렸으니 하반기에 수확하자",
-        "broker": "유진투자증권",
-        "date": "26.08.19",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260819_company_363484000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 20
-    },
-    "code": "419530"
   },
   {
     "stock": "넥센타이어",
@@ -7492,58 +8270,6 @@
     "code": "005180"
   },
   {
-    "stock": "서진시스템",
-    "count": 2,
-    "reports": [
-      {
-        "title": "조금씩, 그러나 확실히 나아지고 있다",
-        "broker": "유진투자증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260818_company_369624000.pdf"
-      },
-      {
-        "title": "악재 충분히 반영한 주가, 다시 내일을 논하..",
-        "broker": "SK증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260827_company_754814000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 20
-    },
-    "code": "178320"
-  },
-  {
-    "stock": "대한해운",
-    "count": 2,
-    "reports": [
-      {
-        "title": "내 갈 길을 간다",
-        "broker": "신한투자증권",
-        "date": "26.08.18",
-        "pdf_url": ""
-      },
-      {
-        "title": "Next Step을 기대하며",
-        "broker": "하나증권",
-        "date": "26.08.20",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260820_company_573916000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 20
-    },
-    "code": "005880"
-  },
-  {
     "stock": "피에스케이홀딩스",
     "count": 2,
     "reports": [
@@ -7648,52 +8374,6 @@
     "code": "166090"
   },
   {
-    "stock": "비츠로셀",
-    "count": 2,
-    "reports": [
-      {
-        "title": "배터리 보관창고 화재 발생 Comment",
-        "broker": "IBK투자증권",
-        "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/40/20260901_company_196665000.pdf"
-      },
-      {
-        "title": "Never Stop Rising",
-        "broker": "신한투자증권",
-        "date": "26.09.04",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 15,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 20
-    },
-    "code": "082920"
-  },
-  {
-    "stock": "원익QnC",
-    "count": 1,
-    "reports": [
-      {
-        "title": "다시 한번 성장 증명",
-        "broker": "신한투자증권",
-        "date": "26.08.13",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "074600"
-  },
-  {
     "stock": "GC메디아이",
     "count": 1,
     "reports": [
@@ -7732,26 +8412,6 @@
       "total": 15
     },
     "code": "046890"
-  },
-  {
-    "stock": "대신증권",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2Q26 Review: 평가이익이 견인한 어닝 서프라..",
-        "broker": "SK증권",
-        "date": "26.08.12",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260812_company_303653000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "003540"
   },
   {
     "stock": "레이언스",
@@ -7854,26 +8514,6 @@
     "code": "353200"
   },
   {
-    "stock": "이녹스첨단소재",
-    "count": 1,
-    "reports": [
-      {
-        "title": "NDR 후기: TAM 확대 스토리 지속",
-        "broker": "신한투자증권",
-        "date": "26.08.11",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "272290"
-  },
-  {
     "stock": "핑거",
     "count": 1,
     "reports": [
@@ -7912,46 +8552,6 @@
       "total": 15
     },
     "code": "144960"
-  },
-  {
-    "stock": "에코프로비엠",
-    "count": 1,
-    "reports": [
-      {
-        "title": "[NDR 후기] 헝가리+니켈 내재화에 주목",
-        "broker": "유안타증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260810_company_2884000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "247540"
-  },
-  {
-    "stock": "포스코퓨처엠",
-    "count": 1,
-    "reports": [
-      {
-        "title": "[NDR 후기] 2027년 가동률 회복 본격화",
-        "broker": "유안타증권",
-        "date": "26.08.10",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260810_company_327295000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "003670"
   },
   {
     "stock": "AP시스템",
@@ -7994,26 +8594,6 @@
     "code": "064400"
   },
   {
-    "stock": "큐라클",
-    "count": 1,
-    "reports": [
-      {
-        "title": "메멘토의 메모: 다음 L/O를 찾아라",
-        "broker": "신한투자증권",
-        "date": "26.08.10",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "365270"
-  },
-  {
     "stock": "현대지에프홀딩스",
     "count": 1,
     "reports": [
@@ -8034,6 +8614,26 @@
     "code": "005440"
   },
   {
+    "stock": "교촌에프앤비",
+    "count": 1,
+    "reports": [
+      {
+        "title": "2Q26P Review: 해외 사업은 여전히 성장 중",
+        "broker": "유진투자증권",
+        "date": "26.08.10",
+        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260810_company_191945000.pdf"
+      }
+    ],
+    "scores": {
+      "attention": 10,
+      "momentum": 0,
+      "technical": 0,
+      "fundamental": 5,
+      "total": 15
+    },
+    "code": "339770"
+  },
+  {
     "stock": "이랜텍",
     "count": 1,
     "reports": [
@@ -8052,26 +8652,6 @@
       "total": 15
     },
     "code": "054210"
-  },
-  {
-    "stock": "삼성증권",
-    "count": 1,
-    "reports": [
-      {
-        "title": "기록적인 Top-line, 그러나 비용으로 상쇄된 ..",
-        "broker": "대신증권",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/15/20260807_company_521073000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "016360"
   },
   {
     "stock": "텔레칩스",
@@ -8194,26 +8774,6 @@
     "code": "298540"
   },
   {
-    "stock": "옵트론텍",
-    "count": 1,
-    "reports": [
-      {
-        "title": "모바일 광학부품 기반 전장·방산·로보틱스..",
-        "broker": "서울평가정보",
-        "date": "26.08.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/75/20260807_company_880453000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "082210"
-  },
-  {
     "stock": "아이오케이이엔엠",
     "count": 1,
     "reports": [
@@ -8332,26 +8892,6 @@
       "total": 15
     },
     "code": "475150"
-  },
-  {
-    "stock": "아이에스동서",
-    "count": 1,
-    "reports": [
-      {
-        "title": "아쉬운 지식산업센터, 긍정적인 콘크리트",
-        "broker": "하나증권",
-        "date": "26.08.14",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260814_company_41037000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "010780"
   },
   {
     "stock": "아이에스티이",
@@ -8474,26 +9014,6 @@
     "code": "014280"
   },
   {
-    "stock": "노바렉스",
-    "count": 1,
-    "reports": [
-      {
-        "title": "K-웰니스 트렌드 유효. 장기적 시각이 필요한..",
-        "broker": "DS투자증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260818_company_49147000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "194700"
-  },
-  {
     "stock": "HJ중공업",
     "count": 1,
     "reports": [
@@ -8552,26 +9072,6 @@
       "total": 15
     },
     "code": "005850"
-  },
-  {
-    "stock": "피에이치에이",
-    "count": 1,
-    "reports": [
-      {
-        "title": "미국 법인의 고성장에 주목할 때",
-        "broker": "하나증권",
-        "date": "26.08.18",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260818_company_370358000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "043370"
   },
   {
     "stock": "한스바이오메드",
@@ -8714,26 +9214,6 @@
     "code": "035150"
   },
   {
-    "stock": "미래에셋생명",
-    "count": 1,
-    "reports": [
-      {
-        "title": "변액, 성장 엔진이자 배당 제약 요인",
-        "broker": "신한투자증권",
-        "date": "26.08.18",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "085620"
-  },
-  {
     "stock": "피에스케이",
     "count": 1,
     "reports": [
@@ -8832,26 +9312,6 @@
       "total": 15
     },
     "code": "009900"
-  },
-  {
-    "stock": "와이지-원",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2Q 실적의 내재적 의미",
-        "broker": "유안타증권",
-        "date": "26.08.19",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260819_company_392048000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "019210"
   },
   {
     "stock": "상신이디피",
@@ -9014,26 +9474,6 @@
     "code": "264450"
   },
   {
-    "stock": "씨엠티엑스",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2Q26P Review: 11분기 연속 매출 성장세 지속",
-        "broker": "유진투자증권",
-        "date": "26.08.21",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260821_company_739786000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "388210"
-  },
-  {
     "stock": "한국단자",
     "count": 1,
     "reports": [
@@ -9074,26 +9514,6 @@
     "code": "200710"
   },
   {
-    "stock": "세아홀딩스",
-    "count": 1,
-    "reports": [
-      {
-        "title": "나도 실적 성장주, 나도 주주환원에 진심!",
-        "broker": "신한투자증권",
-        "date": "26.08.21",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "058650"
-  },
-  {
     "stock": "에스폴리텍",
     "count": 1,
     "reports": [
@@ -9132,26 +9552,6 @@
       "total": 15
     },
     "code": "017810"
-  },
-  {
-    "stock": "에치에프알",
-    "count": 1,
-    "reports": [
-      {
-        "title": "어차피 내년 실적은 개선될 수 밖에 없습니다",
-        "broker": "하나증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260824_company_524302000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "230240"
   },
   {
     "stock": "DI동일",
@@ -9274,86 +9674,6 @@
     "code": "079900"
   },
   {
-    "stock": "하나기술",
-    "count": 1,
-    "reports": [
-      {
-        "title": "2Q26 Review: 하반기 인도 및 북미향 공급 기..",
-        "broker": "유진투자증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20260824_company_516541000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "299030"
-  },
-  {
-    "stock": "HD현대일렉트릭",
-    "count": 1,
-    "reports": [
-      {
-        "title": "수익성은 유틸리티, 성장은 증설이 만든다",
-        "broker": "SK증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20260824_company_28043000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "267260"
-  },
-  {
-    "stock": "디앤씨미디어",
-    "count": 1,
-    "reports": [
-      {
-        "title": "27~28년 돌아올 <나혼렙> 극장판",
-        "broker": "신한투자증권",
-        "date": "26.08.24",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "263720"
-  },
-  {
-    "stock": "카카오페이",
-    "count": 1,
-    "reports": [
-      {
-        "title": "프런티어 업체 제휴 요구",
-        "broker": "키움증권",
-        "date": "26.08.24",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260824_company_905420000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "377300"
-  },
-  {
     "stock": "대한약품",
     "count": 1,
     "reports": [
@@ -9412,26 +9732,6 @@
       "total": 15
     },
     "code": "017940"
-  },
-  {
-    "stock": "코리아에프티",
-    "count": 1,
-    "reports": [
-      {
-        "title": "P/E 3.7배에 불과. 자기주식 취득까지 진행 ..",
-        "broker": "하나증권",
-        "date": "26.08.25",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20260825_company_789914000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "123410"
   },
   {
     "stock": "HD한국조선해양",
@@ -9494,46 +9794,6 @@
     "code": "348210"
   },
   {
-    "stock": "파크시스템스",
-    "count": 1,
-    "reports": [
-      {
-        "title": "외형 성장, 수익성 개선 동반될 하반기",
-        "broker": "신한투자증권",
-        "date": "26.08.25",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "140860"
-  },
-  {
-    "stock": "NH투자증권",
-    "count": 1,
-    "reports": [
-      {
-        "title": "업종 투심이 부진할 때 최선의 선택지",
-        "broker": "iM증권",
-        "date": "26.08.25",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260825_company_25846000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "005940"
-  },
-  {
     "stock": "덕산하이메탈",
     "count": 1,
     "reports": [
@@ -9572,46 +9832,6 @@
       "total": 15
     },
     "code": "316140"
-  },
-  {
-    "stock": "세미파이브",
-    "count": 1,
-    "reports": [
-      {
-        "title": "양산으로 증명되는 경쟁력",
-        "broker": "신한투자증권",
-        "date": "26.08.27",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "490470"
-  },
-  {
-    "stock": "천보",
-    "count": 1,
-    "reports": [
-      {
-        "title": "NDR 후기: 실적 바닥 통과 구간, 북미 OEM 서..",
-        "broker": "키움증권",
-        "date": "26.08.27",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260827_company_497301000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "278280"
   },
   {
     "stock": "한국자산신탁",
@@ -9674,26 +9894,6 @@
     "code": "408920"
   },
   {
-    "stock": "페스카로",
-    "count": 1,
-    "reports": [
-      {
-        "title": "자동차 보안 수직계열화 업체",
-        "broker": "한국IR협의회",
-        "date": "26.08.28",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260828_company_752834000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "0015S0"
-  },
-  {
     "stock": "싸이닉솔루션",
     "count": 1,
     "reports": [
@@ -9712,26 +9912,6 @@
       "total": 15
     },
     "code": "234030"
-  },
-  {
-    "stock": "그래피",
-    "count": 1,
-    "reports": [
-      {
-        "title": "형상기억 소재에서 디지털 덴티스트리로 진화",
-        "broker": "한국IR협의회",
-        "date": "26.08.28",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260828_company_240139000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "318060"
   },
   {
     "stock": "아스플로",
@@ -9834,26 +10014,6 @@
     "code": "092190"
   },
   {
-    "stock": "SNT에너지",
-    "count": 1,
-    "reports": [
-      {
-        "title": "중동 복구·재건 수혜 및 북미 LNG 프로젝트..",
-        "broker": "iM증권",
-        "date": "26.08.31",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20260831_company_760313000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "100840"
-  },
-  {
     "stock": "스틱인베스트먼트",
     "count": 1,
     "reports": [
@@ -9872,26 +10032,6 @@
       "total": 15
     },
     "code": "026890"
-  },
-  {
-    "stock": "에이비엘바이오",
-    "count": 1,
-    "reports": [
-      {
-        "title": "Givastomig, 얼마나 효과가 있어야할까?",
-        "broker": "DS투자증권",
-        "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20260901_company_260206000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "298380"
   },
   {
     "stock": "큐알티",
@@ -9914,26 +10054,6 @@
     "code": "405100"
   },
   {
-    "stock": "예스티",
-    "count": 1,
-    "reports": [
-      {
-        "title": "하반기부터 본격적 반도체 장비 실적 반영",
-        "broker": "유안타증권",
-        "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20260901_company_124279000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "122640"
-  },
-  {
     "stock": "세진중공업",
     "count": 1,
     "reports": [
@@ -9952,26 +10072,6 @@
       "total": 15
     },
     "code": "075580"
-  },
-  {
-    "stock": "피엔티",
-    "count": 1,
-    "reports": [
-      {
-        "title": "고객사 다변화. 소재 사업 방향성이 중요",
-        "broker": "미래에셋증권",
-        "date": "26.09.01",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260901_company_88334000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "137400"
   },
   {
     "stock": "티씨머티리얼즈",
@@ -10034,26 +10134,6 @@
     "code": "336260"
   },
   {
-    "stock": "대원미디어",
-    "count": 1,
-    "reports": [
-      {
-        "title": "반다이남코는 신고가",
-        "broker": "신한투자증권",
-        "date": "26.09.03",
-        "pdf_url": ""
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "048910"
-  },
-  {
     "stock": "롯데지주",
     "count": 1,
     "reports": [
@@ -10072,26 +10152,6 @@
       "total": 15
     },
     "code": "004990"
-  },
-  {
-    "stock": "로체시스템즈",
-    "count": 1,
-    "reports": [
-      {
-        "title": "저평가된 반도체 투자 확대 수혜주",
-        "broker": "키움증권",
-        "date": "26.09.03",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20260903_company_153296000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "071280"
   },
   {
     "stock": "롯데이노베이트",
@@ -10134,26 +10194,6 @@
     "code": "101160"
   },
   {
-    "stock": "신대양제지",
-    "count": 1,
-    "reports": [
-      {
-        "title": "원지 전 지종 생산과 수직계열 공급망을 기반..",
-        "broker": "NICE평가정보",
-        "date": "26.09.04",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/69/20260904_company_479490000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "016590"
-  },
-  {
     "stock": "데이원컴퍼니",
     "count": 1,
     "reports": [
@@ -10172,45 +10212,5 @@
       "total": 15
     },
     "code": "373160"
-  },
-  {
-    "stock": "오름테라퓨틱",
-    "count": 1,
-    "reports": [
-      {
-        "title": "예상보다 빠른 임상 진입, 재평가 시점도 앞..",
-        "broker": "미래에셋증권",
-        "date": "26.09.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/56/20260907_company_884057000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "475830"
-  },
-  {
-    "stock": "바이오솔루션",
-    "count": 1,
-    "reports": [
-      {
-        "title": "연골재생치료, 이제 시작일지도 모른다",
-        "broker": "한국IR협의회",
-        "date": "26.09.07",
-        "pdf_url": "https://stock.pstatic.net/stock-research/company/74/20260907_company_510362000.pdf"
-      }
-    ],
-    "scores": {
-      "attention": 10,
-      "momentum": 0,
-      "technical": 0,
-      "fundamental": 5,
-      "total": 15
-    },
-    "code": "086820"
   }
 ]
